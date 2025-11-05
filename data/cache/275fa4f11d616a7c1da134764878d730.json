@@ -1,0 +1,188 @@
+{
+  "timestamp": "2025-11-05T20:29:39.856465",
+  "source": "clinical_trials",
+  "query": "colorectal cancer prevention_10_None",
+  "data": [
+    {
+      "nct_id": "NCT00339469",
+      "title": "Effect of High-Legume Diet on Colorectal Cancer Risk",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Inflammation",
+        "Prevention and Control",
+        "Colonic Neoplasms",
+        "Diet",
+        "Insulin"
+      ],
+      "interventions": [
+        "LIFE"
+      ],
+      "brief_summary": "This study, sponsored by the National Cancer Institute and Penn State University, will examine how a diet high in legumes (dried beans) influences risk factors for colon cancer and polyps. Many scientists believe that colon and rectal cancers develop from polyps (tumors of the lining of the large bowel). This study will test whether a high-legume diet can reduce levels of certain factors (blood insulin, blood glucose, and markers of inflammation such as C-reactive protein) that at elevated level",
+      "start_date": "2005-08-03",
+      "completion_date": "2018-02-13",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00339469"
+    },
+    {
+      "nct_id": "NCT01514786",
+      "title": "Decision Aid to Technologically Enhance Shared Decision Making",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "Colorectal Web"
+      ],
+      "brief_summary": "Physicians face a challenge in promoting colorectal cancer screening (CRCS) in the face of multiple competing demands. A decision aid (DA) that clarifies patient preferences and improves decision quality could aid shared decision making (SDM) and be effective at increasing CRCS rates. However, exactly how such DA improves SDM is not clear. This 4-year R01 study funded by the National Cancer Institute seeks to provide detailed understanding of how an interactive DA affects patient-physician commu",
+      "start_date": "2012-05",
+      "completion_date": "2015-04",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT01514786"
+    },
+    {
+      "nct_id": "NCT06775951",
+      "title": "Appropriateness of Colonoscopy Indication: an Evaluation of the Clinical and Economic Impact.",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer Control and Prevention"
+      ],
+      "interventions": [],
+      "brief_summary": "The aim of the study is to evaluate the appropriateness of colonoscopy prescription and the impact of colonoscopies in diagnostic performance in order to develop and validate a predictive model for selecting patients most likely to present with significant lesions and thus lower costs and waiting lists.",
+      "start_date": "2023-01-02",
+      "completion_date": "2025-10-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06775951"
+    },
+    {
+      "nct_id": "NCT00609310",
+      "title": "Dietary Bioflavonoid Supplementation for the Prevention of Neoplasia Recurrence",
+      "status": "SUSPENDED",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "Flavonoids"
+      ],
+      "brief_summary": "Prove the hypothesis that dietary supplementation with bioflavonoids will diminish the recurrence rate of colonic neoplasia, we will implement a clinical trial comparing bioflavonoids and placebo in a double blind randomized clinical trial. To use a standardised supplementation of bioflavonoids, a commercially available preparation (Flavo-Natin\u00ae) will be used.",
+      "start_date": "2015-05",
+      "completion_date": "2016-12",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00609310"
+    },
+    {
+      "nct_id": "NCT02321969",
+      "title": "Green Tea Extracts for the Prevention of Colorectal Adenomas and Colorectal Cancer",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Neoplasms, Colorectal"
+      ],
+      "interventions": [
+        "GTE (green tea extract)"
+      ],
+      "brief_summary": "Experimental studies have shown the chemopreventive properties of green tea extract (GTE) on colorectal cancer. And colorectal adenomas are precursors to colorectal cancers. The aim of this study is to determine the preventive effect of GTE supplements on metachronous colorectal adenomas by giving GTE tablets of which are equivalent of 9 cup-of-green tea per day (0.9 g/day GTE, 0.6 g/day Epigallocatechin gallate (EGCG).",
+      "start_date": "2010-08",
+      "completion_date": "2015-10",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02321969"
+    },
+    {
+      "nct_id": "NCT04211766",
+      "title": "Fiber and Fish Oil Supplements for the Prevention of Colorectal Cancer",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Healthy Subject"
+      ],
+      "interventions": [
+        "Dietary Fiber",
+        "Fish Oil",
+        "Comparator",
+        "Comparator"
+      ],
+      "brief_summary": "This trial studies how fiber and fish oil supplements affect the metabolism and activities of colon cells in healthy individuals. Diet is an important risk factor for colorectal cancer, and several dietary components important in colorectal cancer prevention are modified by gut microbial metabolism. Giving fiber and fish oil supplements may inhibit the growth of gut cells and ultimately reduce risk of colorectal cancer.",
+      "start_date": "2021-01-05",
+      "completion_date": "2022-08-16",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT04211766"
+    },
+    {
+      "nct_id": "NCT05693649",
+      "title": "Behavioral Economic Approaches for Population-Based Colorectal Cancer Screening",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "No Direct Patient Outreach",
+        "Direct Patient Outreach: Colonoscopy Only",
+        "Direct Patient Outreach: Sequential Choice",
+        "Visit-Based Nudge/Text",
+        "No Nudge/Text"
+      ],
+      "brief_summary": "This is a 3-year pragmatic, randomized clinical trial among average-risk patients at diverse primary care practices who are overdue for colorectal (CRC) screening. This project aims to evaluate the effect of a centralized program that includes direct outreach to patients and visit-based, clinician directed nudges facilitated by the electronic health record (EHR) with follow-up text messaging on the uptake of CRC screening. The primary outcome is CRC screening completion at 3 years. Patient and c",
+      "start_date": "2023-06-07",
+      "completion_date": "2026-12-21",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05693649"
+    },
+    {
+      "nct_id": "NCT05289726",
+      "title": "Study on the Prevention of Dermal Toxicity Caused by Regorafenib by Traditional Chinese Medicine TDX105",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Hand and Foot Skin Reaction",
+        "Colorectal Cancer Stage IV"
+      ],
+      "interventions": [
+        "Traditional chinese medicine TDX105",
+        "Placebo"
+      ],
+      "brief_summary": "this is an preventive study to evaluate the preventive effect of traditional chinese medicine TDX105 on Regorafenib induced Dermatologic Toxicities",
+      "start_date": "2022-04-18",
+      "completion_date": "2023-04-18",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05289726"
+    },
+    {
+      "nct_id": "NCT01511653",
+      "title": "Validation of Colon Biomarkers for the Early Detection of Colorectal Adenocarcinoma",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Colon Cancer",
+        "Rectal Cancer"
+      ],
+      "interventions": [],
+      "brief_summary": "The investigators are undertaking a multi-center, 13000 subject validation study of several biomarkers for early detection of colon cancer. There are stool based biomarkers and blood based biomarkers being validated in this study. The biomarkers will be compared with colonoscopy and with FIT (fecal immunohistochemistry) tests which are the current standards for colon cancer screening. This is an NCI-early Detection Research Network funded project. The population targeted for this study are those",
+      "start_date": "2011-10",
+      "completion_date": "2019-04",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT01511653"
+    },
+    {
+      "nct_id": "NCT06134765",
+      "title": "Bemalenograstim Alfa for the Prevention in Patients With Colorectal Cancer/Pancreatic Cancer",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer",
+        "Pancreatic Cancer"
+      ],
+      "interventions": [
+        "Bemalenograstim alfa"
+      ],
+      "brief_summary": "A multi-cohort, open-label, multicenter exploratory clinical study of Bemalenograstim alfa for the prevention of reduced absolute neutrophil count(ANC) in patients with colorectal cancer/pancreatic cancer following a bi-weekly chemotherapy regimen.A total of 89 patients are planned to be enrolled.",
+      "start_date": "2023-11-30",
+      "completion_date": "2025-03-30",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06134765"
+    }
+  ]
+}

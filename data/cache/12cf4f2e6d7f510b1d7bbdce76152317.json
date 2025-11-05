@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-11-05T20:31:51.872086",
+  "source": "pubmed_details",
+  "query": "38839268_26868177_27561771_30391545_29985750_22122763_39923320_25023355_22473097_28718829",
+  "data": [
+    {
+      "pmid": "38839268",
+      "title": "Low-dose aspirin for the prevention of atherosclerotic cardiovascular disease.",
+      "authors": [
+        "Patrono C"
+      ],
+      "journal": "European heart journal",
+      "pub_date": "2024 Jul 12",
+      "source": "Eur Heart J",
+      "volume": "45",
+      "issue": "27",
+      "pages": "2362-2376",
+      "doi": "doi: 10.1093/eurheartj/ehae324",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38839268/"
+    },
+    {
+      "pmid": "26868177",
+      "title": "Aspirin and colorectal cancer: the promise of precision chemoprevention.",
+      "authors": [
+        "Drew DA",
+        "Cao Y",
+        "Chan AT"
+      ],
+      "journal": "Nature reviews. Cancer",
+      "pub_date": "2016 Mar",
+      "source": "Nat Rev Cancer",
+      "volume": "16",
+      "issue": "3",
+      "pages": "173-86",
+      "doi": "doi: 10.1038/nrc.2016.4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26868177/"
+    },
+    {
+      "pmid": "27561771",
+      "title": "Aspirin and Cancer.",
+      "authors": [
+        "Patrignani P",
+        "Patrono C"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "pub_date": "2016 Aug 30",
+      "source": "J Am Coll Cardiol",
+      "volume": "68",
+      "issue": "9",
+      "pages": "967-76",
+      "doi": "doi: 10.1016/j.jacc.2016.05.083",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27561771/"
+    },
+    {
+      "pmid": "30391545",
+      "title": "The first 3500\u202fyears of aspirin history from its roots - A concise summary.",
+      "authors": [
+        "Montinari MR",
+        "Minelli S",
+        "De Caterina R"
+      ],
+      "journal": "Vascular pharmacology",
+      "pub_date": "2019 Feb",
+      "source": "Vascul Pharmacol",
+      "volume": "113",
+      "issue": "",
+      "pages": "1-8",
+      "doi": "doi: 10.1016/j.vph.2018.10.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30391545/"
+    },
+    {
+      "pmid": "29985750",
+      "title": "Aspirin, platelet inhibition and cancer prevention.",
+      "authors": [
+        "Patrignani P",
+        "Patrono C"
+      ],
+      "journal": "Platelets",
+      "pub_date": "2018 Dec",
+      "source": "Platelets",
+      "volume": "29",
+      "issue": "8",
+      "pages": "779-785",
+      "doi": "doi: 10.1080/09537104.2018.1492105",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29985750/"
+    },
+    {
+      "pmid": "22122763",
+      "title": "Aspirin for the prevention of colorectal cancer.",
+      "authors": [
+        "Garcia-Albeniz X",
+        "Chan AT"
+      ],
+      "journal": "Best practice & research. Clinical gastroenterology",
+      "pub_date": "2011 Aug",
+      "source": "Best Pract Res Clin Gastroenterol",
+      "volume": "25",
+      "issue": "4-5",
+      "pages": "461-72",
+      "doi": "doi: 10.1016/j.bpg.2011.10.015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22122763/"
+    },
+    {
+      "pmid": "39923320",
+      "title": "Role of aspirin in cancer prevention.",
+      "authors": [
+        "Sun M",
+        "Yu J",
+        "Wan J",
+        "Dou X",
+        "Chen X"
+      ],
+      "journal": "Cancer treatment and research communications",
+      "pub_date": "2025",
+      "source": "Cancer Treat Res Commun",
+      "volume": "43",
+      "issue": "",
+      "pages": "100884",
+      "doi": "doi: 10.1016/j.ctarc.2025.100884",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39923320/"
+    },
+    {
+      "pmid": "25023355",
+      "title": "Prevention and treatment of cancer with aspirin: where do we stand?",
+      "authors": [
+        "Pasche B",
+        "Wang M",
+        "Pennison M",
+        "Jimenez H"
+      ],
+      "journal": "Seminars in oncology",
+      "pub_date": "2014 Jun",
+      "source": "Semin Oncol",
+      "volume": "41",
+      "issue": "3",
+      "pages": "397-401",
+      "doi": "doi: 10.1053/j.seminoncol.2014.04.012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25023355/"
+    },
+    {
+      "pmid": "22473097",
+      "title": "The role of aspirin in cancer prevention.",
+      "authors": [
+        "Thun MJ",
+        "Jacobs EJ",
+        "Patrono C"
+      ],
+      "journal": "Nature reviews. Clinical oncology",
+      "pub_date": "2012 Apr 3",
+      "source": "Nat Rev Clin Oncol",
+      "volume": "9",
+      "issue": "5",
+      "pages": "259-67",
+      "doi": "doi: 10.1038/nrclinonc.2011.199",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22473097/"
+    },
+    {
+      "pmid": "28718829",
+      "title": "Aspirin Prevention of Colorectal Cancer: Focus on NF-\u03baB Signalling and the Nucleolus.",
+      "authors": [
+        "Chen J",
+        "Stark LA"
+      ],
+      "journal": "Biomedicines",
+      "pub_date": "2017 Jul 18",
+      "source": "Biomedicines",
+      "volume": "5",
+      "issue": "3",
+      "pages": "",
+      "doi": "doi: 10.3390/biomedicines5030043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28718829/"
+    }
+  ]
+}

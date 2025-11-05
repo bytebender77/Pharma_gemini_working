@@ -1,0 +1,462 @@
+2025-11-02 02:50:15,703 - pharma_ai.app - INFO - LLM initialized successfully
+2025-11-02 02:50:15,703 - pharma_ai.app - INFO - LLM initialized successfully
+2025-11-02 02:50:15,703 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 02:50:15,710 - pharma_ai.app - ERROR - Analysis error: 2 validation errors for Agent
+tools.0
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...ndition at 0x10ffba700>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+tools.1
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...by_drug at 0x13b45e7a0>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/app.py", line 355, in main
+    clinical_agent = create_clinical_trials_agent(llm)
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/agents/clinical_trials_agent.py", line 27, in create_clinical_trials_agent
+    return Agent(
+        role="Clinical Trials Research Specialist",
+    ...<20 lines>...
+        max_iter=5
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for Agent
+tools.0
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...ndition at 0x10ffba700>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+tools.1
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...by_drug at 0x13b45e7a0>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+
+2025-11-02 02:50:15,710 - pharma_ai.app - ERROR - Analysis error: 2 validation errors for Agent
+tools.0
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...ndition at 0x10ffba700>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+tools.1
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...by_drug at 0x13b45e7a0>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/app.py", line 355, in main
+    clinical_agent = create_clinical_trials_agent(llm)
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/agents/clinical_trials_agent.py", line 27, in create_clinical_trials_agent
+    return Agent(
+        role="Clinical Trials Research Specialist",
+    ...<20 lines>...
+        max_iter=5
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for Agent
+tools.0
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...ndition at 0x10ffba700>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+tools.1
+  Input should be a valid dictionary or instance of BaseTool [type=model_type, input_value=StructuredTool(name='sear...by_drug at 0x13b45e7a0>), input_type=StructuredTool]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+
+2025-11-02 02:53:30,324 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 02:56:35,377 - pharma_ai.app - INFO - LLM initialized successfully
+2025-11-02 02:56:35,377 - pharma_ai.app - INFO - LLM initialized successfully
+2025-11-02 02:56:35,378 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 02:56:35,384 - pharma_ai.app - ERROR - Analysis error: Fallback to LiteLLM is not available
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/app.py", line 355, in main
+    clinical_agent = create_clinical_trials_agent(llm)
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/agents/clinical_trials_agent.py", line 27, in create_clinical_trials_agent
+    return Agent(
+        role="Clinical Trials Research Specialist",
+    ...<20 lines>...
+        max_iter=5
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/agent/internal/meta.py", line 58, in post_init_setup_with_extensions
+    result = original_func(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/agent/core.py", line 213, in post_init_setup
+    self.llm = create_llm(self.llm)
+               ~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/utilities/llm_utils.py", line 66, in create_llm
+    raise e
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/utilities/llm_utils.py", line 53, in create_llm
+    return LLM(
+        model=model,
+    ...<6 lines>...
+        api_base=api_base,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/llm.py", line 343, in __new__
+    raise ImportError("Fallback to LiteLLM is not available") from None
+ImportError: Fallback to LiteLLM is not available
+
+2025-11-02 02:56:35,384 - pharma_ai.app - ERROR - Analysis error: Fallback to LiteLLM is not available
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/app.py", line 355, in main
+    clinical_agent = create_clinical_trials_agent(llm)
+  File "/Users/kunalkumargupta/Desktop/cc agent vs/agents/clinical_trials_agent.py", line 27, in create_clinical_trials_agent
+    return Agent(
+        role="Clinical Trials Research Specialist",
+    ...<20 lines>...
+        max_iter=5
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/agent/internal/meta.py", line 58, in post_init_setup_with_extensions
+    result = original_func(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/agent/core.py", line 213, in post_init_setup
+    self.llm = create_llm(self.llm)
+               ~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/utilities/llm_utils.py", line 66, in create_llm
+    raise e
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/utilities/llm_utils.py", line 53, in create_llm
+    return LLM(
+        model=model,
+    ...<6 lines>...
+        api_base=api_base,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/crewai/llm.py", line 343, in __new__
+    raise ImportError("Fallback to LiteLLM is not available") from None
+ImportError: Fallback to LiteLLM is not available
+
+2025-11-02 02:59:22,018 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 02:59:22,018 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 02:59:22,018 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 02:59:22,418 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 02:59:22,467 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 02:59:22,516 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 02:59:22,567 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 02:59:22,620 - pharma_ai.agents.master - INFO - Starting research crew for query: Get comprehensive information about aspirin...
+2025-11-02 02:59:22,626 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 02:59:23,732 - pharma_ai.agents.master - ERROR - Error in research crew execution: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2025-11-02 03:02:54,588 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:02:54,588 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:02:54,589 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:02:55,102 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:02:55,155 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:02:55,205 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:02:55,263 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:02:55,319 - pharma_ai.agents.master - INFO - Starting research crew for query: Get comprehensive information about aspirin...
+2025-11-02 03:02:55,322 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:02:56,389 - pharma_ai.agents.master - ERROR - Error in research crew execution: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2025-11-02 03:05:21,551 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:05:21,551 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:05:21,551 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:05:22,034 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:05:22,083 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:05:22,132 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:05:22,181 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:05:22,234 - pharma_ai.agents.master - INFO - Starting research crew for query: Get comprehensive information about aspirin
+...
+2025-11-02 03:05:22,236 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:06:25,973 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_aspirin_10
+2025-11-02 03:06:25,976 - pharma_ai.clinical_trials - INFO - Searching trials for drug: aspirin
+2025-11-02 03:06:26,711 - pharma_ai.clinical_trials - INFO - Found 10 trials for aspirin
+2025-11-02 03:06:26,716 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_aspirin_10
+2025-11-02 03:07:22,112 - pharma_ai.cache - DEBUG - Cache miss for pubchem:aspirin
+2025-11-02 03:07:22,116 - pharma_ai.pubchem - INFO - Fetching PubChem data for: aspirin
+2025-11-02 03:07:26,215 - pharma_ai.pubchem - INFO - Successfully fetched data for CID: 2244
+2025-11-02 03:07:26,220 - pharma_ai.cache - DEBUG - Cached data for pubchem:aspirin
+2025-11-02 03:07:32,453 - pharma_ai.cache - DEBUG - Cache miss for fda_labels:aspirin_3
+2025-11-02 03:07:32,458 - pharma_ai.fda - INFO - Searching FDA labels for: aspirin
+2025-11-02 03:07:34,932 - pharma_ai.fda - INFO - Found 3 FDA labels
+2025-11-02 03:07:34,933 - pharma_ai.cache - DEBUG - Cached data for fda_labels:aspirin_3
+2025-11-02 03:07:51,626 - pharma_ai.agents.master - INFO - Research crew completed successfully
+2025-11-02 03:09:39,766 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:09:39,766 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:09:39,768 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:09:39,825 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:09:39,878 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:09:39,929 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:09:39,978 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:09:40,029 - pharma_ai.agents.master - INFO - Starting research crew for query: Find recent research on GLP-1 agonists...
+2025-11-02 03:09:40,032 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:10:53,589 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_semaglutide_10
+2025-11-02 03:10:53,592 - pharma_ai.clinical_trials - INFO - Searching trials for drug: semaglutide
+2025-11-02 03:10:54,295 - pharma_ai.clinical_trials - INFO - Found 10 trials for semaglutide
+2025-11-02 03:10:54,297 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_semaglutide_10
+2025-11-02 03:11:30,729 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_liraglutide_10
+2025-11-02 03:11:30,730 - pharma_ai.clinical_trials - INFO - Searching trials for drug: liraglutide
+2025-11-02 03:11:31,467 - pharma_ai.clinical_trials - INFO - Found 10 trials for liraglutide
+2025-11-02 03:11:31,469 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_liraglutide_10
+2025-11-02 03:13:02,293 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_exenatide_10
+2025-11-02 03:13:02,298 - pharma_ai.clinical_trials - INFO - Searching trials for drug: exenatide
+2025-11-02 03:13:02,868 - pharma_ai.clinical_trials - INFO - Found 10 trials for exenatide
+2025-11-02 03:13:02,870 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_exenatide_10
+2025-11-02 03:15:19,422 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_GLP-1 agonist_10
+2025-11-02 03:15:19,424 - pharma_ai.clinical_trials - INFO - Searching trials for drug: GLP-1 agonist
+2025-11-02 03:15:20,009 - pharma_ai.clinical_trials - INFO - Found 10 trials for GLP-1 agonist
+2025-11-02 03:15:20,012 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_GLP-1 agonist_10
+2025-11-02 03:15:37,749 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_Semaglutide_10
+2025-11-02 03:15:37,752 - pharma_ai.clinical_trials - INFO - Searching trials for drug: Semaglutide
+2025-11-02 03:15:38,382 - pharma_ai.clinical_trials - INFO - Found 10 trials for Semaglutide
+2025-11-02 03:15:38,384 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_Semaglutide_10
+2025-11-02 03:15:52,361 - pharma_ai.cache - DEBUG - Cache miss for pubchem:semaglutide
+2025-11-02 03:15:52,362 - pharma_ai.pubchem - INFO - Fetching PubChem data for: semaglutide
+2025-11-02 03:15:56,321 - pharma_ai.pubchem - INFO - Successfully fetched data for CID: 56843331
+2025-11-02 03:15:56,324 - pharma_ai.cache - DEBUG - Cached data for pubchem:semaglutide
+2025-11-02 03:16:21,456 - pharma_ai.cache - DEBUG - Cache miss for fda_labels:semaglutide_3
+2025-11-02 03:16:21,465 - pharma_ai.fda - INFO - Searching FDA labels for: semaglutide
+2025-11-02 03:16:24,086 - pharma_ai.fda - INFO - Found 3 FDA labels
+2025-11-02 03:16:24,095 - pharma_ai.cache - DEBUG - Cached data for fda_labels:semaglutide_3
+2025-11-02 03:16:39,194 - pharma_ai.cache - DEBUG - Cache miss for pubchem:liraglutide
+2025-11-02 03:16:39,197 - pharma_ai.pubchem - INFO - Fetching PubChem data for: liraglutide
+2025-11-02 03:16:43,269 - pharma_ai.pubchem - INFO - Successfully fetched data for CID: 16134956
+2025-11-02 03:16:43,271 - pharma_ai.cache - DEBUG - Cached data for pubchem:liraglutide
+2025-11-02 03:18:53,302 - pharma_ai.agents.master - ERROR - Error in research crew execution: maximum recursion depth exceeded
+2025-11-02 03:23:03,320 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:23:03,320 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:23:03,321 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:23:03,804 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:23:03,855 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:23:03,904 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:23:03,953 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:23:04,003 - pharma_ai.agents.master - INFO - Starting research crew for query: Find recent research on GLP-1 agonists...
+2025-11-02 03:23:04,007 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:23:53,828 - pharma_ai.cache - INFO - Cache hit for clinical_trials:drug_GLP-1 agonist_10
+2025-11-02 03:24:32,896 - pharma_ai.cache - DEBUG - Cache miss for pubchem:Tirzepatide
+2025-11-02 03:24:32,898 - pharma_ai.pubchem - INFO - Fetching PubChem data for: Tirzepatide
+2025-11-02 03:24:33,869 - pharma_ai.pubchem - ERROR - Error fetching PubChem data for Tirzepatide: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tirzepatide/cids/JSON
+2025-11-02 03:25:02,807 - pharma_ai.cache - DEBUG - Cache miss for pubchem:LY3502970
+2025-11-02 03:25:02,810 - pharma_ai.pubchem - INFO - Fetching PubChem data for: LY3502970
+2025-11-02 03:25:07,997 - pharma_ai.pubchem - INFO - Successfully fetched data for CID: 137319706
+2025-11-02 03:25:07,998 - pharma_ai.cache - DEBUG - Cached data for pubchem:LY3502970
+2025-11-02 03:25:09,545 - pharma_ai.agents.master - ERROR - Error in research crew execution: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 50\nPlease retry in 50.609841969s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}
+2025-11-02 03:33:18,189 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:33:18,189 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:33:18,190 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:33:18,247 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:33:18,297 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:33:18,347 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:33:18,398 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:33:18,449 - pharma_ai.agents.master - INFO - Starting research crew for query: Analyze the repurposing potential of aspirin for cancer prevention - include clinical trials, litera...
+2025-11-02 03:33:18,454 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:33:19,947 - pharma_ai.agents.master - ERROR - Error in research crew execution: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 50\nPlease retry in 40.033550547s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '50'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}
+2025-11-02 03:33:55,810 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:33:55,810 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:33:55,810 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:33:56,292 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:33:56,341 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:33:56,389 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:33:56,439 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:33:56,488 - pharma_ai.agents.master - INFO - Starting research crew for query: Analyze the repurposing potential of aspirin for cancer prevention - include clinical trials, litera...
+2025-11-02 03:33:56,493 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:33:58,570 - pharma_ai.cache - INFO - Cache hit for clinical_trials:drug_aspirin_10
+2025-11-02 03:34:00,498 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:cancer prevention_10_None
+2025-11-02 03:34:00,498 - pharma_ai.clinical_trials - INFO - Searching clinical trials for condition: cancer prevention
+2025-11-02 03:34:01,237 - pharma_ai.clinical_trials - INFO - Found 10 clinical trials
+2025-11-02 03:34:01,238 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:cancer prevention_10_None
+2025-11-02 03:34:03,210 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:colorectal cancer prevention aspirin_10_None
+2025-11-02 03:34:03,211 - pharma_ai.clinical_trials - INFO - Searching clinical trials for condition: colorectal cancer prevention aspirin
+2025-11-02 03:34:03,814 - pharma_ai.clinical_trials - INFO - Found 10 clinical trials
+2025-11-02 03:34:03,814 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:colorectal cancer prevention aspirin_10_None
+2025-11-02 03:36:16,883 - pharma_ai.cache - INFO - Cache hit for pubchem:aspirin
+2025-11-02 03:36:18,072 - pharma_ai.cache - INFO - Cache hit for fda_labels:aspirin_3
+2025-11-02 03:37:01,179 - pharma_ai.cache - DEBUG - Cache miss for pubmed_search:aspirin cancer prevention_10_relevance
+2025-11-02 03:37:01,184 - pharma_ai.pubmed - INFO - Searching PubMed for: aspirin cancer prevention
+2025-11-02 03:37:03,071 - pharma_ai.pubmed - INFO - Found 10 PubMed articles
+2025-11-02 03:37:03,073 - pharma_ai.cache - DEBUG - Cached data for pubmed_search:aspirin cancer prevention_10_relevance
+2025-11-02 03:37:03,077 - pharma_ai.cache - DEBUG - Cache miss for pubmed_details:38839268_36047054_35373259_33502899_39923320_26868
+2025-11-02 03:37:03,077 - pharma_ai.pubmed - INFO - Fetching details for 10 articles
+2025-11-02 03:37:04,522 - pharma_ai.pubmed - INFO - Retrieved details for 10 articles
+2025-11-02 03:37:04,524 - pharma_ai.cache - DEBUG - Cached data for pubmed_details:38839268_36047054_35373259_33502899_39923320_26868
+2025-11-02 03:38:21,290 - pharma_ai.agents.master - INFO - Research crew completed successfully
+2025-11-02 03:44:22,920 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:44:22,920 - pharma_ai.app - INFO - LLM initialized successfully for CrewAI
+2025-11-02 03:44:22,920 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-02 03:44:22,976 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-02 03:44:23,028 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-02 03:44:23,079 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-02 03:44:23,130 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-02 03:44:23,182 - pharma_ai.agents.master - INFO - Starting research crew for query: Get comprehensive information about aspirin...
+2025-11-02 03:44:23,188 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-02 03:45:16,389 - pharma_ai.cache - INFO - Cache hit for clinical_trials:drug_aspirin_10
+2025-11-02 03:45:26,509 - pharma_ai.cache - INFO - Cache hit for pubchem:aspirin
+2025-11-02 03:45:27,946 - pharma_ai.cache - INFO - Cache hit for fda_labels:aspirin_3
+2025-11-02 03:45:54,530 - pharma_ai.cache - DEBUG - Cache miss for pubmed_search:aspirin recent research_10_relevance
+2025-11-02 03:45:54,530 - pharma_ai.pubmed - INFO - Searching PubMed for: aspirin recent research
+2025-11-02 03:45:55,903 - pharma_ai.pubmed - INFO - Found 10 PubMed articles
+2025-11-02 03:45:55,903 - pharma_ai.cache - DEBUG - Cached data for pubmed_search:aspirin recent research_10_relevance
+2025-11-02 03:45:55,905 - pharma_ai.cache - DEBUG - Cache miss for pubmed_details:32580960_32835720_38373378_36866678_26868177_89182
+2025-11-02 03:45:55,905 - pharma_ai.pubmed - INFO - Fetching details for 10 articles
+2025-11-02 03:45:57,378 - pharma_ai.pubmed - INFO - Retrieved details for 10 articles
+2025-11-02 03:45:57,380 - pharma_ai.cache - DEBUG - Cached data for pubmed_details:32580960_32835720_38373378_36866678_26868177_89182
+2025-11-02 03:46:41,486 - pharma_ai.agents.master - INFO - Research crew completed successfully
+2025-11-05 16:35:49,982 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 16:35:49,982 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 16:35:49,983 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 16:35:50,196 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 16:35:50,205 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-05 16:35:50,211 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-05 16:35:50,217 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-05 16:35:50,223 - pharma_ai.agents.master - INFO - Starting research crew for query: Find drugs for diabetes that could be repurposed for other conditions...
+2025-11-05 16:35:50,229 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-05 16:36:01,983 - pharma_ai.agents.master - ERROR - Error in research crew execution: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-05 16:41:32,201 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 16:41:32,201 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 16:41:32,202 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 16:41:32,430 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 16:41:32,450 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-05 16:41:32,468 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-05 16:41:32,486 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-05 16:41:32,503 - pharma_ai.agents.master - INFO - Starting research crew for query: Find drugs for diabetes that could be repurposed for other conditions...
+2025-11-05 16:41:32,508 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-05 16:41:40,590 - pharma_ai.agents.master - ERROR - Error in research crew execution: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-05 17:19:20,849 - pharma_ai.app - ERROR - Application error: 'st.session_state has no key "$$WIDGET_ID-a4443d3cb07c7860fbc387a84d548fb9-None". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 471, in __getitem__
+    base_value = self._getitem(widget_id, key)
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 524, in _getitem
+    raise KeyError
+KeyError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 483, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 290, in main
+    display_sidebar()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 228, in display_sidebar
+    selected_category = st.selectbox(
+        "Category:",
+        ["Select a category..."] + list(example_queries.keys())
+    )
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/metrics_util.py", line 447, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/elements/widgets/selectbox.py", line 470, in selectbox
+    return self._selectbox(
+           ~~~~~~~~~~~~~~~^
+        label=label,
+        ^^^^^^^^^^^^
+    ...<13 lines>...
+        ctx=ctx,
+        ^^^^^^^^
+    )
+    ^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/elements/widgets/selectbox.py", line 561, in _selectbox
+    session_state = get_session_state().filtered_state
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/safe_session_state.py", line 99, in filtered_state
+    return self._state.filtered_state
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 417, in filtered_state
+    state[k] = self[k]
+               ~~~~^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 478, in __getitem__
+    raise KeyError(_missing_key_error_message(key))
+KeyError: 'st.session_state has no key "$$WIDGET_ID-a4443d3cb07c7860fbc387a84d548fb9-None". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'
+
+2025-11-05 17:19:20,849 - pharma_ai.app - ERROR - Application error: 'st.session_state has no key "$$WIDGET_ID-a4443d3cb07c7860fbc387a84d548fb9-None". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 471, in __getitem__
+    base_value = self._getitem(widget_id, key)
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 524, in _getitem
+    raise KeyError
+KeyError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 483, in <module>
+    main()
+    ~~~~^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 290, in main
+    display_sidebar()
+    ~~~~~~~~~~~~~~~^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/app.py", line 228, in display_sidebar
+    selected_category = st.selectbox(
+        "Category:",
+        ["Select a category..."] + list(example_queries.keys())
+    )
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/metrics_util.py", line 447, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/elements/widgets/selectbox.py", line 470, in selectbox
+    return self._selectbox(
+           ~~~~~~~~~~~~~~~^
+        label=label,
+        ^^^^^^^^^^^^
+    ...<13 lines>...
+        ctx=ctx,
+        ^^^^^^^^
+    )
+    ^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/elements/widgets/selectbox.py", line 561, in _selectbox
+    session_state = get_session_state().filtered_state
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/safe_session_state.py", line 99, in filtered_state
+    return self._state.filtered_state
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 417, in filtered_state
+    state[k] = self[k]
+               ~~~~^^^
+  File "/Users/kunalkumargupta/Desktop/Pharma-AI-Agent-main/.venv/lib/python3.13/site-packages/streamlit/runtime/state/session_state.py", line 478, in __getitem__
+    raise KeyError(_missing_key_error_message(key))
+KeyError: 'st.session_state has no key "$$WIDGET_ID-a4443d3cb07c7860fbc387a84d548fb9-None". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'
+
+2025-11-05 17:19:46,757 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 17:19:46,757 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 17:19:46,758 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 17:19:46,970 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 17:19:46,977 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-05 17:19:46,985 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-05 17:19:46,991 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-05 17:19:46,998 - pharma_ai.agents.master - INFO - Starting research crew for query: Find drugs for diabetes that could be repurposed for other conditions...
+2025-11-05 17:19:47,005 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-05 17:19:48,597 - pharma_ai.agents.master - ERROR - Error in research crew execution: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234a*******************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-05 17:20:34,222 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 17:20:34,222 - pharma_ai.app - INFO - LLM (OpenAI) initialized successfully for CrewAI
+2025-11-05 17:20:34,224 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 17:20:34,237 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 17:20:34,244 - pharma_ai.agents.literature - INFO - Creating Literature Agent
+2025-11-05 17:20:34,251 - pharma_ai.agents.market - INFO - Creating Market Agent
+2025-11-05 17:20:34,258 - pharma_ai.agents.master - INFO - Creating Master Agent
+2025-11-05 17:20:34,267 - pharma_ai.agents.master - INFO - Starting research crew for query: Find drugs for diabetes that could be repurposed for other conditions...
+2025-11-05 17:20:34,273 - pharma_ai.agents.master - INFO - Executing research crew...
+2025-11-05 17:20:35,692 - pharma_ai.agents.master - ERROR - Error in research crew execution: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1234a*******************************abcd. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-11-05 20:28:33,434 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 20:28:36,330 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 20:29:22,668 - pharma_ai.cache - DEBUG - Cache expired for clinical_trials:drug_aspirin_10
+2025-11-05 20:29:22,669 - pharma_ai.clinical_trials - INFO - Searching trials for drug: aspirin
+2025-11-05 20:29:23,566 - pharma_ai.clinical_trials - INFO - Found 10 trials for aspirin
+2025-11-05 20:29:23,568 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_aspirin_10
+2025-11-05 20:29:39,385 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:colorectal cancer prevention_10_None
+2025-11-05 20:29:39,388 - pharma_ai.clinical_trials - INFO - Searching clinical trials for condition: colorectal cancer prevention
+2025-11-05 20:29:39,853 - pharma_ai.clinical_trials - INFO - Found 10 clinical trials
+2025-11-05 20:29:39,857 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:colorectal cancer prevention_10_None
+2025-11-05 20:30:26,262 - pharma_ai.cache - DEBUG - Cache expired for clinical_trials:cancer prevention_10_None
+2025-11-05 20:30:26,264 - pharma_ai.clinical_trials - INFO - Searching clinical trials for condition: cancer prevention
+2025-11-05 20:30:26,829 - pharma_ai.clinical_trials - INFO - Found 10 clinical trials
+2025-11-05 20:30:26,833 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:cancer prevention_10_None
+2025-11-05 20:30:42,539 - pharma_ai.cache - DEBUG - Cache miss for clinical_trials:drug_aspirin and cancer prevention_10
+2025-11-05 20:30:42,547 - pharma_ai.clinical_trials - INFO - Searching trials for drug: aspirin and cancer prevention
+2025-11-05 20:30:43,051 - pharma_ai.clinical_trials - INFO - Found 10 trials for aspirin and cancer prevention
+2025-11-05 20:30:43,056 - pharma_ai.cache - DEBUG - Cached data for clinical_trials:drug_aspirin and cancer prevention_10
+2025-11-05 20:31:48,895 - pharma_ai.cache - DEBUG - Cache miss for pubmed_search:aspirin cancer prevention mechanism_10_relevance
+2025-11-05 20:31:48,899 - pharma_ai.pubmed - INFO - Searching PubMed for: aspirin cancer prevention mechanism
+2025-11-05 20:31:50,326 - pharma_ai.pubmed - INFO - Found 10 PubMed articles
+2025-11-05 20:31:50,329 - pharma_ai.cache - DEBUG - Cached data for pubmed_search:aspirin cancer prevention mechanism_10_relevance
+2025-11-05 20:31:50,331 - pharma_ai.cache - DEBUG - Cache miss for pubmed_details:38839268_26868177_27561771_30391545_29985750_22122
+2025-11-05 20:31:50,332 - pharma_ai.pubmed - INFO - Fetching details for 10 articles
+2025-11-05 20:31:51,867 - pharma_ai.pubmed - INFO - Retrieved details for 10 articles
+2025-11-05 20:31:51,873 - pharma_ai.cache - DEBUG - Cached data for pubmed_details:38839268_26868177_27561771_30391545_29985750_22122
+2025-11-05 20:34:33,460 - pharma_ai.cache - DEBUG - Cache miss for pubmed_search:aspirin cancer prevention mechanisms_10_relevance
+2025-11-05 20:34:33,464 - pharma_ai.pubmed - INFO - Searching PubMed for: aspirin cancer prevention mechanisms
+2025-11-05 20:34:34,966 - pharma_ai.pubmed - INFO - Found 10 PubMed articles
+2025-11-05 20:34:34,974 - pharma_ai.cache - DEBUG - Cached data for pubmed_search:aspirin cancer prevention mechanisms_10_relevance
+2025-11-05 20:34:34,978 - pharma_ai.cache - DEBUG - Cache miss for pubmed_details:38839268_33260951_26868177_33427041_27561771_30391
+2025-11-05 20:34:34,980 - pharma_ai.pubmed - INFO - Fetching details for 10 articles
+2025-11-05 20:34:36,416 - pharma_ai.pubmed - INFO - Retrieved details for 10 articles
+2025-11-05 20:34:36,425 - pharma_ai.cache - DEBUG - Cached data for pubmed_details:38839268_33260951_26868177_33427041_27561771_30391
+2025-11-05 20:35:05,181 - pharma_ai.cache - DEBUG - Cache miss for pubmed_search:aspirin cancer prevention clinical trials mechanis
+2025-11-05 20:35:05,184 - pharma_ai.pubmed - INFO - Searching PubMed for: aspirin cancer prevention clinical trials mechanisms
+2025-11-05 20:35:06,555 - pharma_ai.pubmed - INFO - Found 10 PubMed articles
+2025-11-05 20:35:06,561 - pharma_ai.cache - DEBUG - Cached data for pubmed_search:aspirin cancer prevention clinical trials mechanis
+2025-11-05 20:35:06,564 - pharma_ai.cache - DEBUG - Cache miss for pubmed_details:34130339_33427041_15637400_16118353_23589726_87911
+2025-11-05 20:35:06,566 - pharma_ai.pubmed - INFO - Fetching details for 10 articles
+2025-11-05 20:35:07,963 - pharma_ai.pubmed - INFO - Retrieved details for 10 articles
+2025-11-05 20:35:07,968 - pharma_ai.cache - DEBUG - Cached data for pubmed_details:34130339_33427041_15637400_16118353_23589726_87911
+2025-11-05 20:42:04,164 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 20:42:04,622 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 21:14:52,473 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 21:14:52,923 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent
+2025-11-05 21:16:16,536 - pharma_ai.agents.clinical_trials - INFO - Creating Clinical Trials Agent
+2025-11-05 21:16:16,983 - pharma_ai.agents.drug_info - INFO - Creating Drug Information Agent

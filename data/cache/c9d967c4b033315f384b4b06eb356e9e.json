@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-11-05T20:34:36.422764",
+  "source": "pubmed_details",
+  "query": "38839268_33260951_26868177_33427041_27561771_30391545_9606094_33657423_9294096_29985750",
+  "data": [
+    {
+      "pmid": "38839268",
+      "title": "Low-dose aspirin for the prevention of atherosclerotic cardiovascular disease.",
+      "authors": [
+        "Patrono C"
+      ],
+      "journal": "European heart journal",
+      "pub_date": "2024 Jul 12",
+      "source": "Eur Heart J",
+      "volume": "45",
+      "issue": "27",
+      "pages": "2362-2376",
+      "doi": "doi: 10.1093/eurheartj/ehae324",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38839268/"
+    },
+    {
+      "pmid": "33260951",
+      "title": "Mechanisms of Colorectal Cancer Prevention by Aspirin-A Literature Review and Perspective on the Role of COX-Dependent and -Independent Pathways.",
+      "authors": [
+        "Sankaranarayanan R",
+        "Kumar DR",
+        "Altinoz MA",
+        "Bhat GJ"
+      ],
+      "journal": "International journal of molecular sciences",
+      "pub_date": "2020 Nov 27",
+      "source": "Int J Mol Sci",
+      "volume": "21",
+      "issue": "23",
+      "pages": "",
+      "doi": "doi: 10.3390/ijms21239018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33260951/"
+    },
+    {
+      "pmid": "26868177",
+      "title": "Aspirin and colorectal cancer: the promise of precision chemoprevention.",
+      "authors": [
+        "Drew DA",
+        "Cao Y",
+        "Chan AT"
+      ],
+      "journal": "Nature reviews. Cancer",
+      "pub_date": "2016 Mar",
+      "source": "Nat Rev Cancer",
+      "volume": "16",
+      "issue": "3",
+      "pages": "173-86",
+      "doi": "doi: 10.1038/nrc.2016.4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26868177/"
+    },
+    {
+      "pmid": "33427041",
+      "title": "Updates on the molecular mechanisms of aspirin in the prevention of colorectal cancer: Review.",
+      "authors": [
+        "Belayneh YM",
+        "Amare GG",
+        "Meharie BG"
+      ],
+      "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+      "pub_date": "2021 Jun",
+      "source": "J Oncol Pharm Pract",
+      "volume": "27",
+      "issue": "4",
+      "pages": "954-961",
+      "doi": "doi: 10.1177/1078155220984846",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33427041/"
+    },
+    {
+      "pmid": "27561771",
+      "title": "Aspirin and Cancer.",
+      "authors": [
+        "Patrignani P",
+        "Patrono C"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "pub_date": "2016 Aug 30",
+      "source": "J Am Coll Cardiol",
+      "volume": "68",
+      "issue": "9",
+      "pages": "967-76",
+      "doi": "doi: 10.1016/j.jacc.2016.05.083",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27561771/"
+    },
+    {
+      "pmid": "30391545",
+      "title": "The first 3500\u202fyears of aspirin history from its roots - A concise summary.",
+      "authors": [
+        "Montinari MR",
+        "Minelli S",
+        "De Caterina R"
+      ],
+      "journal": "Vascular pharmacology",
+      "pub_date": "2019 Feb",
+      "source": "Vascul Pharmacol",
+      "volume": "113",
+      "issue": "",
+      "pages": "1-8",
+      "doi": "doi: 10.1016/j.vph.2018.10.008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30391545/"
+    },
+    {
+      "pmid": "9606094",
+      "title": "Aspirin, NSAIDS, and colon cancer prevention: mechanisms?",
+      "authors": [
+        "Gupta RA",
+        "DuBois RN"
+      ],
+      "journal": "Gastroenterology",
+      "pub_date": "1998 May",
+      "source": "Gastroenterology",
+      "volume": "114",
+      "issue": "5",
+      "pages": "1095-8",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9606094/"
+    },
+    {
+      "pmid": "33657423",
+      "title": "Mechanisms of the antiangiogenic effects of aspirin in cancer.",
+      "authors": [
+        "Xie S",
+        "Wang Y",
+        "Huang Y",
+        "Yang B"
+      ],
+      "journal": "European journal of pharmacology",
+      "pub_date": "2021 May 5",
+      "source": "Eur J Pharmacol",
+      "volume": "898",
+      "issue": "",
+      "pages": "173989",
+      "doi": "doi: 10.1016/j.ejphar.2021.173989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33657423/"
+    },
+    {
+      "pmid": "9294096",
+      "title": "Aspirin use and potential mechanisms for colorectal cancer prevention.",
+      "authors": [
+        "Williams CS",
+        "Smalley W",
+        "DuBois RN"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "pub_date": "1997 Sep 15",
+      "source": "J Clin Invest",
+      "volume": "100",
+      "issue": "6",
+      "pages": "1325-9",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9294096/"
+    },
+    {
+      "pmid": "29985750",
+      "title": "Aspirin, platelet inhibition and cancer prevention.",
+      "authors": [
+        "Patrignani P",
+        "Patrono C"
+      ],
+      "journal": "Platelets",
+      "pub_date": "2018 Dec",
+      "source": "Platelets",
+      "volume": "29",
+      "issue": "8",
+      "pages": "779-785",
+      "doi": "doi: 10.1080/09537104.2018.1492105",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29985750/"
+    }
+  ]
+}

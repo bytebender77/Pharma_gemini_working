@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-02T03:16:43.270582",
+  "source": "pubchem",
+  "query": "liraglutide",
+  "data": {
+    "cid": 16134956,
+    "molecular_formula": "C172H265N43O51",
+    "molecular_weight": "3751",
+    "iupac_name": "(2S)-5-[[(5S)-5-[[(2S)-2-[[(2S)-2-[[(2S)-5-amino-2-[[2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[2-[[(2S)-2-[[(2S)-2-[[(2S)-2-amino-3-(1H-imidazol-5-yl)propanoyl]amino]propanoyl]amino]-4-carboxybutanoyl]amino]acetyl]amino]-3-hydroxybutanoyl]amino]-3-phenylpropanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-3-carboxypropanoyl]amino]-3-methylbutanoyl]amino]-3-hydroxypropanoyl]amino]-3-hydroxypropanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-4-methylpentanoyl]amino]-4-carboxybutanoyl]amino]acetyl]amino]-5-oxopentanoyl]amino]propanoyl]amino]propanoyl]amino]-6-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-5-carbamimidamido-1-[[2-[[(2S)-5-carbamimidamido-1-(carboxymethylamino)-1-oxopentan-2-yl]amino]-2-oxoethyl]amino]-1-oxopentan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-6-oxohexyl]amino]-2-(hexadecanoylamino)-5-oxopentanoic acid",
+    "canonical_smiles": "N/A",
+    "inchi": "InChI=1S/C172H265N43O51/c1-18-20-21-22-23-24-25-26-27-28-29-30-37-53-129(224)195-116(170(265)266)59-64-128(223)180-68-41-40-50-111(153(248)199-115(62-67-135(232)233)154(249)204-120(73-100-44-33-31-34-45-100)159(254)214-140(93(11)19-2)167(262)192-97(15)146(241)201-122(76-103-79-183-108-49-39-38-48-106(103)108)157(252)203-118(72-90(5)6)158(253)212-138(91(7)8)165(260)200-110(52-43-70-182-172(177)178)149(244)184-81-130(225)193-109(51-42-69-181-171(175)176)148(243)187-84-137(236)237)196-144(239)95(13)189-143(238)94(12)191-152(247)114(58-63-127(174)222)194-131(226)82-185-151(246)113(61-66-134(230)231)198-155(250)117(71-89(3)4)202-156(251)119(75-102-54-56-105(221)57-55-102)205-162(257)124(85-216)208-164(259)126(87-218)209-166(261)139(92(9)10)213-161(256)123(78-136(234)235)206-163(258)125(86-217)210-169(264)142(99(17)220)215-160(255)121(74-101-46-35-32-36-47-101)207-168(263)141(98(16)219)211-132(227)83-186-150(245)112(60-65-133(228)229)197-145(240)96(14)190-147(242)107(173)77-104-80-179-88-188-104/h31-36,38-39,44-49,54-57,79-80,88-99,107,109-126,138-142,183,216-221H,18-30,37,40-43,50-53,58-78,81-87,173H2,1-17H3,(H2,174,222)(H,179,188)(H,180,223)(H,184,244)(H,185,246)(H,186,245)(H,187,243)(H,189,238)(H,190,242)(H,191,247)(H,192,262)(H,193,225)(H,194,226)(H,195,224)(H,196,239)(H,197,240)(H,198,250)(H,199,248)(H,200,260)(H,201,241)(H,202,251)(H,203,252)(H,204,249)(H,205,257)(H,206,258)(H,207,263)(H,208,259)(H,209,261)(H,210,264)(H,211,227)(H,212,253)(H,213,256)(H,214,254)(H,215,255)(H,228,229)(H,230,231)(H,232,233)(H,234,235)(H,236,237)(H,265,266)(H4,175,176,181)(H4,177,178,182)/t93-,94-,95-,96-,97-,98+,99+,107-,109-,110-,111-,112-,113-,114-,115-,116-,117-,118-,119-,120-,121-,122-,123-,124-,125-,126-,138-,139-,140-,141-,142-/m0/s1",
+    "inchi_key": "YSDQQAXHVYUZIW-QCIJIYAXSA-N",
+    "synonyms": [
+      "Liraglutide",
+      "204656-20-2",
+      "NN2211",
+      "Saxenda",
+      "victoza",
+      "Liraglutida",
+      "NN-2211",
+      "Liraglutidum",
+      "Liraglutide recombinant",
+      "NNC 90-1170",
+      "Liraglutide (rDNA origin)",
+      "NNC-90-1170",
+      "CHEBI:71193",
+      "DTXSID60174433",
+      "NN9924"
+    ],
+    "description": "N/A",
+    "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/16134956"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "timestamp": "2025-11-05T20:35:07.967110",
+  "source": "pubmed_details",
+  "query": "34130339_33427041_15637400_16118353_23589726_8791132_37720350_28712971_9294096_19328542",
+  "data": [
+    {
+      "pmid": "34130339",
+      "title": "Contemporary Clinical Use of Aspirin: Mechanisms of Action, Current Concepts, Unresolved Questions, and Future Perspectives.",
+      "authors": [
+        "Christiansen M",
+        "Grove EL",
+        "Hvas AM"
+      ],
+      "journal": "Seminars in thrombosis and hemostasis",
+      "pub_date": "2021 Oct",
+      "source": "Semin Thromb Hemost",
+      "volume": "47",
+      "issue": "7",
+      "pages": "800-814",
+      "doi": "doi: 10.1055/s-0041-1726096",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34130339/"
+    },
+    {
+      "pmid": "33427041",
+      "title": "Updates on the molecular mechanisms of aspirin in the prevention of colorectal cancer: Review.",
+      "authors": [
+        "Belayneh YM",
+        "Amare GG",
+        "Meharie BG"
+      ],
+      "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+      "pub_date": "2021 Jun",
+      "source": "J Oncol Pharm Pract",
+      "volume": "27",
+      "issue": "4",
+      "pages": "954-961",
+      "doi": "doi: 10.1177/1078155220984846",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33427041/"
+    },
+    {
+      "pmid": "15637400",
+      "title": "Colorectal cancer prevention.",
+      "authors": [
+        "Hawk ET",
+        "Levin B"
+      ],
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "pub_date": "2005 Jan 10",
+      "source": "J Clin Oncol",
+      "volume": "23",
+      "issue": "2",
+      "pages": "378-91",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15637400/"
+    },
+    {
+      "pmid": "16118353",
+      "title": "Prostaglandins and cancer.",
+      "authors": [
+        "Wang D",
+        "Dubois RN"
+      ],
+      "journal": "Gut",
+      "pub_date": "2006 Jan",
+      "source": "Gut",
+      "volume": "55",
+      "issue": "1",
+      "pages": "115-22",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16118353/"
+    },
+    {
+      "pmid": "23589726",
+      "title": "Clinical evidence for the use of aspirin in the treatment of cancer.",
+      "authors": [
+        "Langley RE"
+      ],
+      "journal": "Ecancermedicalscience",
+      "pub_date": "2013",
+      "source": "Ecancermedicalscience",
+      "volume": "7",
+      "issue": "",
+      "pages": "297",
+      "doi": "doi: 10.3332/ecancer.2013.297",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23589726/"
+    },
+    {
+      "pmid": "8791132",
+      "title": "Aspirin and other nonsteroidal anti-inflammatory agents in the prevention of colorectal cancer.",
+      "authors": [
+        "Sandler RS"
+      ],
+      "journal": "Important advances in oncology",
+      "pub_date": "1996",
+      "source": "Important Adv Oncol",
+      "volume": "",
+      "issue": "",
+      "pages": "123-37",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8791132/"
+    },
+    {
+      "pmid": "37720350",
+      "title": "Aspirin and the metabolic hallmark of cancer: novel therapeutic opportunities for colorectal cancer.",
+      "authors": [
+        "Hoskin AJ",
+        "Holt AK",
+        "Legge DN",
+        "Collard TJ",
+        "Williams AC"
+      ],
+      "journal": "Exploration of targeted anti-tumor therapy",
+      "pub_date": "2023",
+      "source": "Explor Target Antitumor Ther",
+      "volume": "4",
+      "issue": "4",
+      "pages": "600-615",
+      "doi": "doi: 10.37349/etat.2023.00155",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37720350/"
+    },
+    {
+      "pmid": "28712971",
+      "title": "Drug repurposing in cancer.",
+      "authors": [
+        "Sleire L",
+        "F\u00f8rde HE",
+        "Netland IA",
+        "Leiss L",
+        "Skeie BS"
+      ],
+      "journal": "Pharmacological research",
+      "pub_date": "2017 Oct",
+      "source": "Pharmacol Res",
+      "volume": "124",
+      "issue": "",
+      "pages": "74-91",
+      "doi": "doi: 10.1016/j.phrs.2017.07.013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28712971/"
+    },
+    {
+      "pmid": "9294096",
+      "title": "Aspirin use and potential mechanisms for colorectal cancer prevention.",
+      "authors": [
+        "Williams CS",
+        "Smalley W",
+        "DuBois RN"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "pub_date": "1997 Sep 15",
+      "source": "J Clin Invest",
+      "volume": "100",
+      "issue": "6",
+      "pages": "1325-9",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9294096/"
+    },
+    {
+      "pmid": "19328542",
+      "title": "Aspirin, salicylates, and cancer.",
+      "authors": [
+        "Elwood PC",
+        "Gallagher AM",
+        "Duthie GG",
+        "Mur LA",
+        "Morgan G"
+      ],
+      "journal": "Lancet (London, England)",
+      "pub_date": "2009 Apr 11",
+      "source": "Lancet",
+      "volume": "373",
+      "issue": "9671",
+      "pages": "1301-9",
+      "doi": "doi: 10.1016/S0140-6736(09)60243-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19328542/"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "timestamp": "2025-11-02T03:45:57.379318",
+  "source": "pubmed_details",
+  "query": "32580960_32835720_38373378_36866678_26868177_8918275_29138036_40058719_16102031_16670507",
+  "data": [
+    {
+      "pmid": "32580960",
+      "title": "Aspirin in Primary Prevention of Cardiovascular Events.",
+      "authors": [
+        "Soodi D",
+        "VanWormer JJ",
+        "Rezkalla SH"
+      ],
+      "journal": "Clinical medicine & research",
+      "pub_date": "2020 Aug",
+      "source": "Clin Med Res",
+      "volume": "18",
+      "issue": "2-3",
+      "pages": "89-94",
+      "doi": "doi: 10.3121/cmr.2020.1548",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32580960/"
+    },
+    {
+      "pmid": "32835720",
+      "title": "Prevention of preeclampsia with aspirin.",
+      "authors": [
+        "Rolnik DL",
+        "Nicolaides KH",
+        "Poon LC"
+      ],
+      "journal": "American journal of obstetrics and gynecology",
+      "pub_date": "2022 Feb",
+      "source": "Am J Obstet Gynecol",
+      "volume": "226",
+      "issue": "2S",
+      "pages": "S1108-S1119",
+      "doi": "doi: 10.1016/j.ajog.2020.08.045",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32835720/"
+    },
+    {
+      "pmid": "38373378",
+      "title": "Prevention of preeclampsia.",
+      "authors": [
+        "Brownfoot F",
+        "Rolnik DL"
+      ],
+      "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+      "pub_date": "2024 Mar",
+      "source": "Best Pract Res Clin Obstet Gynaecol",
+      "volume": "93",
+      "issue": "",
+      "pages": "102481",
+      "doi": "doi: 10.1016/j.bpobgyn.2024.102481",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38373378/"
+    },
+    {
+      "pmid": "36866678",
+      "title": "Antiphospholipid syndrome management: a 2023 update and practical algorithm-based approach.",
+      "authors": [
+        "Ambati A",
+        "Knight JS",
+        "Zuo Y"
+      ],
+      "journal": "Current opinion in rheumatology",
+      "pub_date": "2023 May 1",
+      "source": "Curr Opin Rheumatol",
+      "volume": "35",
+      "issue": "3",
+      "pages": "149-160",
+      "doi": "doi: 10.1097/BOR.0000000000000932",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36866678/"
+    },
+    {
+      "pmid": "26868177",
+      "title": "Aspirin and colorectal cancer: the promise of precision chemoprevention.",
+      "authors": [
+        "Drew DA",
+        "Cao Y",
+        "Chan AT"
+      ],
+      "journal": "Nature reviews. Cancer",
+      "pub_date": "2016 Mar",
+      "source": "Nat Rev Cancer",
+      "volume": "16",
+      "issue": "3",
+      "pages": "173-86",
+      "doi": "doi: 10.1038/nrc.2016.4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26868177/"
+    },
+    {
+      "pmid": "8918275",
+      "title": "A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE). CAPRIE Steering Committee.",
+      "authors": [
+        "CAPRIE Steering Committee"
+      ],
+      "journal": "Lancet (London, England)",
+      "pub_date": "1996 Nov 16",
+      "source": "Lancet",
+      "volume": "348",
+      "issue": "9038",
+      "pages": "1329-39",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8918275/"
+    },
+    {
+      "pmid": "29138036",
+      "title": "Aspirin for the prevention of preterm and term preeclampsia: systematic review and metaanalysis.",
+      "authors": [
+        "Roberge S",
+        "Bujold E",
+        "Nicolaides KH"
+      ],
+      "journal": "American journal of obstetrics and gynecology",
+      "pub_date": "2018 Mar",
+      "source": "Am J Obstet Gynecol",
+      "volume": "218",
+      "issue": "3",
+      "pages": "287-293.e1",
+      "doi": "doi: 10.1016/j.ajog.2017.11.561",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29138036/"
+    },
+    {
+      "pmid": "40058719",
+      "title": "Aspirin nanosensors.",
+      "authors": [
+        "Koohkansaadi G",
+        "Tabean M",
+        "Mohagheghi A",
+        "Masoumi S",
+        "Jahanabad ZJ"
+      ],
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "pub_date": "2025 Apr 15",
+      "source": "Clin Chim Acta",
+      "volume": "571",
+      "issue": "",
+      "pages": "120222",
+      "doi": "doi: 10.1016/j.cca.2025.120222",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40058719/"
+    },
+    {
+      "pmid": "16102031",
+      "title": "Aspirin resistance.",
+      "authors": [
+        "Szczeklik A",
+        "Musia\u0142 J",
+        "Undas A",
+        "Sanak M"
+      ],
+      "journal": "Journal of thrombosis and haemostasis : JTH",
+      "pub_date": "2005 Aug",
+      "source": "J Thromb Haemost",
+      "volume": "3",
+      "issue": "8",
+      "pages": "1655-62",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16102031/"
+    },
+    {
+      "pmid": "16670507",
+      "title": "Aspirin desensitization in aspirin intolerance: update on current standards and recent improvements.",
+      "authors": [
+        "Pfaar O",
+        "Klimek L"
+      ],
+      "journal": "Current opinion in allergy and clinical immunology",
+      "pub_date": "2006 Jun",
+      "source": "Curr Opin Allergy Clin Immunol",
+      "volume": "6",
+      "issue": "3",
+      "pages": "161-6",
+      "doi": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16670507/"
+    }
+  ]
+}

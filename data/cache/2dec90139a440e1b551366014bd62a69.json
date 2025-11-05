@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-11-02T03:15:20.011501",
+  "source": "clinical_trials",
+  "query": "drug_GLP-1 agonist_10",
+  "data": [
+    {
+      "nct_id": "NCT06715514",
+      "title": "Menopausal Hormone Therapy, GLP-1 Agonists, and Glucose and Energy Homeostasis in Postmenopausal Women With Diabetes",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Menopause",
+        "Type 2 Diabetes"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06715514"
+    },
+    {
+      "nct_id": "NCT05938712",
+      "title": "The Efficacy, Mechanism & Safety of Sodium Glucose Co-Transporter-2 Inhibitor & Glucagon-Like Peptide 1 Receptor Agonist Combination Therapy in Kidney Transplant Recipients",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Kidney Transplant Recipients"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05938712"
+    },
+    {
+      "nct_id": "NCT05882032",
+      "title": "A Study of LY3502970 in Participants With Impaired and Normal Liver Function",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Healthy",
+        "Hepatic Insufficiency"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05882032"
+    },
+    {
+      "nct_id": "NCT06854952",
+      "title": "A Clinical Study to Evaluate the Efficacy, Safety, and Tolerability of TERN-601 in Adults With Overweight or Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Overweight or Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06854952"
+    },
+    {
+      "nct_id": "NCT06893211",
+      "title": "Effect of Tirzepatide on Brown Adipose Tissue in Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06893211"
+    },
+    {
+      "nct_id": "NCT04122716",
+      "title": "Combined Effects of GLP-1 Analogue and Exercise on Maintenance of Weight Loss and Health After Very-low Calorie Diet",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04122716"
+    },
+    {
+      "nct_id": "NCT06660134",
+      "title": "Strict Weight Management Based on GLP-1 RA for Ablation Outcomes in Overweight or Obese Patients with T2DM and AF",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus (T2DM)",
+        "Atrial Fibrillation (AF)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06660134"
+    },
+    {
+      "nct_id": "NCT01794143",
+      "title": "A Comparative Effectiveness Study of Major Glycemia-lowering Medications for Treatment of Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes",
+        "Comparative Effectiveness of Glycemia-lowering Medications"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01794143"
+    },
+    {
+      "nct_id": "NCT06132477",
+      "title": "Impact GLP-1 Agonists Following Bariatric",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Morbid Obesity",
+        "Metabolic Syndrome",
+        "Diabetes Mellitus",
+        "Hypertension",
+        "Obstructive Sleep Apnea of Adult"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06132477"
+    },
+    {
+      "nct_id": "NCT06659159",
+      "title": "Effects of Beginning a GLP1-Agonist Therapy on Residual Gastric Content and Gastric Emptying",
+      "status": "NOT_YET_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Pulmonary Aspiration During Anaesthetic Induction"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06659159"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "timestamp": "2025-11-02T03:34:03.814367",
+  "source": "clinical_trials",
+  "query": "colorectal cancer prevention aspirin_10_None",
+  "data": [
+    {
+      "nct_id": "NCT03603366",
+      "title": "Study to Evaluate How Patients Regard the Benefits and Risks of Low-dose Aspirin for the Prevention of Heart and Blood Vessels Disease and for the Prevention of Cancer of the Colon and Rectum",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Cardiovascular Disease",
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "Acetylsalicylic acid (Aspirin, BAYE4465)"
+      ],
+      "brief_summary": "Research shows that low-dose Aspirin prevents diseases of heart and blood vessels as well as cancer of the colon and rectum and it is also associated with risk of bleeding. In this study, they want to learn how patients regard the benefits and risks of low-dose Aspirin for the prevention of these diseases. The researchers also want to learn how patients balance these risks and benefits.",
+      "start_date": "2019-08-14",
+      "completion_date": "2019-10-14",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03603366"
+    },
+    {
+      "nct_id": "NCT02607072",
+      "title": "Aspirin for Prevention of Postsurgical Recurrence and Metastasis in Asian Colorectal Cancer Patients: a Multi-center Randomized Trial",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "Acetylsalicylic acid (ASA)/aspirin 200 mg daily",
+        "Acetylsalicylic acid (ASA)/aspirin 100 mg daily",
+        "Placebo"
+      ],
+      "brief_summary": "Background: Evidence of high quality has suggested that acetylsalicylic acid (ASA)/aspirin effectively reduces colorectal adenoma incidence and recurrence rate, and several randomized controlled trials (RCTs) strongly indicate its potential to prevent colorectal cancer (CRC) initiation and progression and to decrease cancer-related mortality. However the role of aspirin supplied as an adjuvant agent in postsurgical CRC patients remains obscure, and a RCT is warranted for clarification.\n\nAim: The",
+      "start_date": "2015-10",
+      "completion_date": "2022-10",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02607072"
+    },
+    {
+      "nct_id": "NCT04081831",
+      "title": "Effectiveness of Low Dose Aspirin in Decreasing the Chance Getting Stomach and Intestine Cancer",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Gastrointestinal Cancer"
+      ],
+      "interventions": [
+        "Acetylsalicylic Acid (Aspirin, BAYE4465)"
+      ],
+      "brief_summary": "In this study, researchers wanted to learn more about the effect of Aspirin taken as low dose (75 - 300 mg) in preventing stomach, colorectal and esophagus cancer. The researchers were interested in the effect by duration of aspirin use and the effect on the time since aspirin intake has been stopped in preventing stomach, colorectal and esophagus cancer. In addition, the study also looked into the time patients survived after being diagnosed (survival rate) with cancer and number of cancer pati",
+      "start_date": "2019-07-31",
+      "completion_date": "2020-08-25",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT04081831"
+    },
+    {
+      "nct_id": "NCT00033319",
+      "title": "Aspirin and/or Folic Acid in Preventing Recurrent Colorectal Polyps",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "folic acid",
+        "acetylsalicylic acid"
+      ],
+      "brief_summary": "RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer. The use of aspirin and/or folic acid may be effective in preventing recurrent polyps in patients who have had polyps removed previously.\n\nPURPOSE: Randomized clinical trial to determine the effectiveness of aspirin and/or folic acid in preventing the recurrence of colorectal polyps.",
+      "start_date": "1997-05",
+      "completion_date": "N/A",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00033319"
+    },
+    {
+      "nct_id": "NCT06378398",
+      "title": "A Trial of Omeprazole and Low Dose Aspirin to Identify Colorectal Biomarkers of Preventive Efficacy",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Neoplasia"
+      ],
+      "interventions": [
+        "Omeprazole",
+        "Aspirin"
+      ],
+      "brief_summary": "This trial will obtain biomarker data on the possible preventive effects of omeprazole and low-dose aspirin in colorectal tissue. Persons who have had 5 or more adenomas, 5 or more serrated polyps, or an incompletely removed adenoma or serrated polyp in the colon or rectum are potentially eligible. Before participating in the study, study staff will explain the study and review the consent form. If you are interested and provide consent, study staff will then confirm your eligibility. Once enrol",
+      "start_date": "2024-06-14",
+      "completion_date": "2026-06",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06378398"
+    },
+    {
+      "nct_id": "NCT00272324",
+      "title": "Aspirin/Folate Prevention of Large Bowel Polyps",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer",
+        "Polyps",
+        "Adenomas"
+      ],
+      "interventions": [
+        "Aspirin",
+        "Folate"
+      ],
+      "brief_summary": "This is a randomized controlled trial of aspirin and/or folate supplementation for the prevention of the recurrence of neoplastic polyps (adenomas) of the large bowel.",
+      "start_date": "1992-02",
+      "completion_date": "2007-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00272324"
+    },
+    {
+      "nct_id": "NCT03326791",
+      "title": "Aspirin in Colorectal Cancer Liver Metastases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer Liver Metastases",
+        "Colorectal Cancer",
+        "Liver Metastases"
+      ],
+      "interventions": [
+        "Acetylsalicylic acid",
+        "Placebo Oral Tablet"
+      ],
+      "brief_summary": "The ASAC trial is a Scandinavian, multi-center, double-blinded, randomized, placebo-controlled study to determine whether adjuvant treatment with low-dose acetylsalicylic acid (ASA) can improve disease free survival in patients treated with resection for colorectal cancer liver metastases (CRCLM).\n\nSeveral studies have shown beneficial effect of ASA on primary prevention of CRC and the investigators group and others have shown a potential association of ASA also taken after the diagnosis on CRC ",
+      "start_date": "2017-12-15",
+      "completion_date": "2026-06",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03326791"
+    },
+    {
+      "nct_id": "NCT00224679",
+      "title": "APACC Study:Prospective Study on Aspirin Efficacy in Reducing Colorectal Adenoma Recurrence",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Colon Adenomas"
+      ],
+      "interventions": [
+        "Aspirin"
+      ],
+      "brief_summary": "Experimental and epidemiologic studies have suggested that aspirin intake reduces the risk for colorectal cancer. In the APACC study we randomly assigned 291 patients to daily Aspirin or Placebo for 4 years. However, the available data are not sufficient to serve as the basis for firm recommendations",
+      "start_date": "1997-03",
+      "completion_date": "1999-03",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00224679"
+    },
+    {
+      "nct_id": "NCT02125409",
+      "title": "Acetylsalicylic Acid and Colorectal Cancer Prevention: Exploring the Platelet Function of Its Mechanism of Action",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "interventions": [
+        "Acetylsalicylic acid",
+        "Screening colonoscopy"
+      ],
+      "brief_summary": "In a preliminary study in healthy subjects, the investigators determined the pharmacokinetic and pharmacodynamic of enteric-coated acetylsalicylic acid (ASA) (Adiro 100 mg, Bayer), and the variability (coefficient of variation), accuracy and precision of a novel biomarker of ASA action, i.e., quantification of the extent of COX-1 acetylation at serine-529, using a stable isotope dilution liquid chromatography multiple reaction monitoring/mass spectrometry (LC-MS) technique.\n\nNow, the investigato",
+      "start_date": "2014-05",
+      "completion_date": "N/A",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT02125409"
+    },
+    {
+      "nct_id": "NCT03047837",
+      "title": "A Randomized, 2x2 Factorial Design Biomarker Prevention Trial of Low-dose ASA and Metformin in Stage I-III Crc Patients",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Tertiary Prevention in Colon Cancer"
+      ],
+      "interventions": [
+        "ASA",
+        "MET",
+        "Placebo"
+      ],
+      "brief_summary": "It has been shown that Aspirin (ASA) as well as Metformin (Met) can inhibit the incidence and mortality of colorectal cancer (CRC). In this randomized, placebo controlled clinical trial we compare the effect of these two drugs alone and their combination to prevent recurrent CRC after surgery.",
+      "start_date": "2017-03-15",
+      "completion_date": "2024-03-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03047837"
+    }
+  ]
+}

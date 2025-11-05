@@ -1,0 +1,194 @@
+{
+  "timestamp": "2025-11-05T20:30:26.832209",
+  "source": "clinical_trials",
+  "query": "cancer prevention_10_None",
+  "data": [
+    {
+      "nct_id": "NCT00304447",
+      "title": "Study Evaluating the Effect of Corticosteroids on Mylotarg\u00ae Infusion-Related Adverse Events in Patients With Leukemia",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Leukemia, Myelocytic, Acute",
+        "Infusions, Intravenous"
+      ],
+      "interventions": [
+        "Mylotarg"
+      ],
+      "brief_summary": "The purpose of this study is to evaluate the effect of corticosteroids on the frequency and severity of Mylotarg\u00ae infusion-related adverse events, to evaluate the effect of corticosteroids on the efficacy of Mylotarg\u00ae induced complete response (CR) and complete response with incomplete platelet recovery (CRp) at one-month post treatment.",
+      "start_date": "2002-04",
+      "completion_date": "2004-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00304447"
+    },
+    {
+      "nct_id": "NCT04565600",
+      "title": "Prevention of Taxane-associated Acute Pain Syndrome With Etoricoxib",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Pain Syndrome"
+      ],
+      "interventions": [
+        "Etoricoxib"
+      ],
+      "brief_summary": "A phase II randomized clinical trial was conducted to determine whether etoricoxib could prevent or ameliorate the incidence and/or severity of docetaxel-induced acute pain syndrome. We also aimed to determine if there are any improvement of the late-onset peripheral neuropathy as well as quality of life with prophylactic etoricoxib for breast cancer patients who receive docetaxel chemotherapy.",
+      "start_date": "2020-03-01",
+      "completion_date": "2021-06-28",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT04565600"
+    },
+    {
+      "nct_id": "NCT06452004",
+      "title": "Validation of Artificial Intelligence as Decision Support System in VIA (PRESCRIP-TEC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "HPV Infection",
+        "Cervix Cancer",
+        "Cervical Dysplasia"
+      ],
+      "interventions": [
+        "Validation of AI-DSS in Bangladesh",
+        "Validation of AI-DSS in Uganda",
+        "Validation of AI-DSS in India"
+      ],
+      "brief_summary": "The research project is a component of another research project that applies the protocol of the World Health Organization for screening of cervical cancer, with testing of high-risk Human Papilloma Virus (hrHPV) as first screening. In the screen, triage and treat approach women who tested positive for hrHPV are undergoing Visual Inspection of the cervix with Acetic Acid (VIA). This procedure is applied in Uganda, India and Bangladesh. However the quality of VIA by lower-trained staff is variabl",
+      "start_date": "2022-10-01",
+      "completion_date": "2025-12-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06452004"
+    },
+    {
+      "nct_id": "NCT03186404",
+      "title": "Statins for the Primary Prevention of Heart Failure in Patients Receiving Anthracycline Pilot Study",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Cancer",
+        "Heart Failure",
+        "Cardiotoxicity"
+      ],
+      "interventions": [
+        "Atorvastatin",
+        "Placebo oral tablet"
+      ],
+      "brief_summary": "Anthracycline (AC) chemotherapy has substantially reduced the mortality rate from several common cancers globally. Unfortunately, AC treatment is associated with up to 19% risk of heart failure (HF). Current standard of care for preventing AC induced HF (AIHF) is cardiac surveillance followed by initiation of treatment once HF is diagnosed. With this approach 89% of patients fail to recover heart function and 46% will experience adverse cardiac events. Therefore there is a need for effective pre",
+      "start_date": "2018-05-10",
+      "completion_date": "2023-12",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT03186404"
+    },
+    {
+      "nct_id": "NCT00723398",
+      "title": "Nutritional Supplements and Hormonal Manipulations for Breast Cancer Prevention",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        "Lovaza 4gm oral",
+        "Raloxifene 60 Mg Oral Tablet",
+        "Raloxifene 30 Mg Oral Tablet",
+        "Lovaza 4gm & Raloxifene 30mg"
+      ],
+      "brief_summary": "The overall hypothesis is that the combination of a low dose of the antiestrogen Raloxifene with omega-3 fatty acids will exert a synergistic breast cancer chemopreventive effect due to the crosstalk of their downstream cellular effects leading to decreased proliferation and increased apoptosis of premalignant mammary cells. Based on the investigators hypothesis that upregulation of functional estrogen receptors in the premalignant lesions is also responsible for the development of hormone indep",
+      "start_date": "2009-03",
+      "completion_date": "2015-04",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT00723398"
+    },
+    {
+      "nct_id": "NCT04393363",
+      "title": "Early Detection of Neuropathy and Cognitive Impairment Following Treatment for Haematological Malignancies",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Chemotherapy-induced Peripheral Neuropathy"
+      ],
+      "interventions": [],
+      "brief_summary": "Chemotherapy-induced peripheral neuropathy (CIPN) is a common, but not well understood complication to treatment with chemotherapy. In this study the investigators will investigate a novel method for early detection of CIPN and compare it to other methods in patients treated for haematological cancers.",
+      "start_date": "2020-08-14",
+      "completion_date": "2030-12-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT04393363"
+    },
+    {
+      "nct_id": "NCT01732393",
+      "title": "Effect of Quercetin in Prevention and Treatment of Oral Mucositis",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Chemotherapy Induced Oral Mucositis"
+      ],
+      "interventions": [
+        "oral quercetin capsules",
+        "Placebo"
+      ],
+      "brief_summary": "The study aims to evaluate the effect of Quercetin (a natural flavonoid) on prevention of and treatment of chemotherapy-induced oral mucositis in patients with blood malignancies.",
+      "start_date": "2010-01",
+      "completion_date": "2012-01",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT01732393"
+    },
+    {
+      "nct_id": "NCT06066255",
+      "title": "PROPHYLAXIS OF GVH IN ELDERLY PATIENTS RECEIVING HAPLOIDENTICAL ALLOGENIC HEMATOPOIETIC STEM CELL TRASNPLANTATION USE OF A LOW DOSE ANTI-LYMPHOCYTIC SERUM",
+      "status": "NOT_YET_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Hematological Malignancy"
+      ],
+      "interventions": [
+        "Thymoglobulin Injectable Product"
+      ],
+      "brief_summary": "The aim of this trial is to evaluate the efficacy of GVH prophylaxis reinforced by low-dose Thymoglobulin administered at the end of aplasia after haploidentical allogeneic transplantation.\n\nPatients will receive a single infusion of Thymoglobulin at a dose of 1 mg/kg between 48h and 72h after emergence from aplasia, and will be followed for 12 months.",
+      "start_date": "2024-03-31",
+      "completion_date": "2026-03-31",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT06066255"
+    },
+    {
+      "nct_id": "NCT05642611",
+      "title": "Comparing Cooling and/or Compression Approaches of Limbs for Prevention of Chemotherapy-Induced Peripheral Neuropathy",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Malignant Solid Neoplasm"
+      ],
+      "interventions": [
+        "Biospecimen Collection",
+        "Cryocompression Therapy",
+        "Pneumatic Compression Therapy",
+        "Pneumatic Compression Therapy",
+        "Quality-of-Life Assessment",
+        "Questionnaire Administration"
+      ],
+      "brief_summary": "This phase III trial compares the effect of 3 study approaches in preventing chemotherapy-induced peripheral neuropathy: 1) cryocompression, 2) continuous compression, and 3) low cyclic compression. Taxane chemotherapy drugs, such as paclitaxel or docetaxel, can cause a nerve disorder called peripheral neuropathy, which can cause numbness, tingling, or pain in the arms and legs. The 3 study approaches will use a device, called the Paxman Limb Cryocompression System, made of wraps that cool and/o",
+      "start_date": "2023-06-06",
+      "completion_date": "2031-08-30",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05642611"
+    },
+    {
+      "nct_id": "NCT05750836",
+      "title": "Assessment and Prevention of Caregiver Burden in Oncology",
+      "status": "NOT_YET_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Oncology",
+        "Caregiver Burden"
+      ],
+      "interventions": [
+        "Specific nursing support",
+        "Non-specific nursing support"
+      ],
+      "brief_summary": "The goal of this randomized, open and controlled supportive care study is to see if we can reduce the burden on the caregiver by offering the caregiver systematic and regular support from the nurse (APN, nurse coordinator in French health care organisations) compared to a support focused on the patient. At the same time, we will also evaluate the impact of this personalised support for the caregiver on their anxiety and quality of life.\n\nParticipants will caregivers of a patient who started a li",
+      "start_date": "2023-07",
+      "completion_date": "2027-06",
+      "enrollment": "N/A",
+      "url": "https://clinicaltrials.gov/study/NCT05750836"
+    }
+  ]
+}

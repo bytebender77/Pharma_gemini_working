@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-11-05T20:30:43.053744",
+  "source": "clinical_trials",
+  "query": "drug_aspirin and cancer prevention_10",
+  "data": [
+    {
+      "nct_id": "NCT04544059",
+      "title": "Lenalidomide Plus R-CHOP for CNS Relapse Prophylaxis in Diffuse Large B-cell Lymphoma",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Diffuse Large B Cell Lymphoma"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04544059"
+    },
+    {
+      "nct_id": "NCT04256525",
+      "title": "Prophylactic Anticoagulation for Catheter-related Thrombosis",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Venous Thrombosis Due to Central Venous Access Device (Disorder)",
+        "Prophylactic Anticoagulation",
+        "Patients With Tumor"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04256525"
+    },
+    {
+      "nct_id": "NCT05557877",
+      "title": "Low Dose Aspirin for the Prevention of Postpartum Related Breast Cancer",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Breast Carcinoma"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05557877"
+    },
+    {
+      "nct_id": "NCT01042704",
+      "title": "Bendamustine in Combination With Lenalidomide and Dexamethasone in Refractory or Relapsed Multiple Myeloma",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Myeloma"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01042704"
+    },
+    {
+      "nct_id": "NCT03743883",
+      "title": "EffectiveNess of Low-dose Aspirin in Prevention of Cancer in the Stomach and Oesophagus (GastrointEstinal Cancer Prevention) - United Kingdom (\"ENgAGE - UK\"): Study to Evaluate the Risk of Cancer in the Stomach and Oesophagus Among New Users of Low-dose Aspirin Using the THIN Database in the UK",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Prevention of Oesophagus Cancer and Stomach Cancer"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03743883"
+    },
+    {
+      "nct_id": "NCT03244020",
+      "title": "LMWH vs Aspirin for VTE Prophylaxis in Orthopaedic Oncology",
+      "status": "ENROLLING_BY_INVITATION",
+      "phase": "N/A",
+      "conditions": [
+        "Sarcoma",
+        "Soft Tissue Sarcoma",
+        "Bone Sarcoma",
+        "Bone Metastases",
+        "Venous Thromboembolism",
+        "Hematoma",
+        "Anticoagulant-induced Bleeding"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03244020"
+    },
+    {
+      "nct_id": "NCT03480776",
+      "title": "ASA in Prevention of Ovarian Cancer (STICs and STONEs)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Ovarian Cancer Prevention"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03480776"
+    },
+    {
+      "nct_id": "NCT00062023",
+      "title": "Comparison of Sulindac, Aspirin, and Ursodiol in Preventing Colorectal Cancer",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00062023"
+    },
+    {
+      "nct_id": "NCT03603366",
+      "title": "Study to Evaluate How Patients Regard the Benefits and Risks of Low-dose Aspirin for the Prevention of Heart and Blood Vessels Disease and for the Prevention of Cancer of the Colon and Rectum",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Cardiovascular Disease",
+        "Colorectal Cancer"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03603366"
+    },
+    {
+      "nct_id": "NCT02670161",
+      "title": "Quality Improvement and Practice Based Research in Neurology Using the EMR",
+      "status": "ENROLLING_BY_INVITATION",
+      "phase": "N/A",
+      "conditions": [
+        "Brain Tumors",
+        "Epilepsy",
+        "Migraine",
+        "Mild Cognitive Impairment",
+        "Concussion",
+        "Multiple Sclerosis",
+        "Neuropathy",
+        "Parkinson's",
+        "Restless Legs Syndrome",
+        "Stroke"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02670161"
+    }
+  ]
+}

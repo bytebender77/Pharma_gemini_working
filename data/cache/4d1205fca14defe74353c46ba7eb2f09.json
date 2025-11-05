@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-11-02T03:15:38.383320",
+  "source": "clinical_trials",
+  "query": "drug_Semaglutide_10",
+  "data": [
+    {
+      "nct_id": "NCT06715514",
+      "title": "Menopausal Hormone Therapy, GLP-1 Agonists, and Glucose and Energy Homeostasis in Postmenopausal Women With Diabetes",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Menopause",
+        "Type 2 Diabetes"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06715514"
+    },
+    {
+      "nct_id": "NCT05209165",
+      "title": "Semaglutide to Reduce Atrial Fibrillation Burden",
+      "status": "SUSPENDED",
+      "phase": "N/A",
+      "conditions": [
+        "Atrial Fibrillation",
+        "Obesity",
+        "Overweight"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05209165"
+    },
+    {
+      "nct_id": "NCT05938712",
+      "title": "The Efficacy, Mechanism & Safety of Sodium Glucose Co-Transporter-2 Inhibitor & Glucagon-Like Peptide 1 Receptor Agonist Combination Therapy in Kidney Transplant Recipients",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Kidney Transplant Recipients"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05938712"
+    },
+    {
+      "nct_id": "NCT06396416",
+      "title": "Obesity Management for Kidney TRANSPLANTation: OK-TRANSPLANT 2",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity",
+        "Chronic Kidney Disease"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06396416"
+    },
+    {
+      "nct_id": "NCT02648204",
+      "title": "Efficacy and Safety of Semaglutide Versus Dulaglutide as add-on to Metformin in Subjects With Type 2 Diabetes.",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02648204"
+    },
+    {
+      "nct_id": "NCT05890976",
+      "title": "Research Study Looking at How Well Semaglutide Tablets Taken Once Daily Work in Chinese Adults Who Are Above a Healthy Weight Range (OASIS 3)",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Overweight",
+        "Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05890976"
+    },
+    {
+      "nct_id": "NCT06097390",
+      "title": "A Research Study Looking at New Protein-based Tablets in Healthy Men - Oral Formulation III",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Healthy Participants"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06097390"
+    },
+    {
+      "nct_id": "NCT06132477",
+      "title": "Impact GLP-1 Agonists Following Bariatric",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Morbid Obesity",
+        "Metabolic Syndrome",
+        "Diabetes Mellitus",
+        "Hypertension",
+        "Obstructive Sleep Apnea of Adult"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06132477"
+    },
+    {
+      "nct_id": "NCT05671653",
+      "title": "A Study to Evaluate the Effect of the Experimental GLP-1 Drug PF-07081532 on Blood Levels of Common Birth Control Pills, and Drugs Omeprazole and Midazolam, and Effect of GLP-1 Drug Semaglutide on Midazolam Blood Levels in Healthy Adults With Weight in the Obesity Range",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05671653"
+    },
+    {
+      "nct_id": "NCT04938388",
+      "title": "Comparison of Oral Semaglutide w/ Placebo- Treatment for Latino Adults w/T2 Diabetes Receiving Enhanced Lifestyle Care",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes Mellitus, Type 2",
+        "Glucose Metabolism Disorders (Including Diabetes Mellitus)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04938388"
+    }
+  ]
+}

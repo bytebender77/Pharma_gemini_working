@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-11-02T03:16:24.094836",
+  "source": "fda_labels",
+  "query": "semaglutide_3",
+  "data": [
+    {
+      "brand_name": "RYBELSUS",
+      "generic_name": "ORAL SEMAGLUTIDE",
+      "manufacturer": "Novo Nordisk",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "substance_name": [
+        "SEMAGLUTIDE"
+      ],
+      "indications": "1 INDICATIONS AND USAGE RYBELSUS is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Limitations of Use RYBELSUS is not indicated for use in patients with type 1 diabetes mellitus. RYBELSUS is a glucagon-like peptide-1 (GLP-1) receptor agonist indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus ( 1 ). Limitations of Use Not for treatment of type 1 diabetes mellitus ( 1 ).",
+      "dosage": "2 DOSAGE AND ADMINISTRATION \u2022 There are two RYBELSUS formulations (i.e., formulation R1 and formulation R2) with different recommended dosages ( 2.1 ) o These formulations are not substitutable on a mg per mg basis o Use either formulation but do not use both formulations at the same time. \u2022 Take RYBELSUS on an empty stomach in the morning with water (up to 4 ounces of water); do not take with other liquids besides water. ( 2.2 ) \u2022 After taking RYBELSUS, wait at least 30 minutes before eating fo",
+      "warnings": "N/A",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are described below or elsewhere in the prescribing information: \u2022 Risk of Thyroid C-cell Tumors [see Warnings and Precautions ( 5.1 )] \u2022 Acute Pancreatitis [see Warnings and Precautions ( 5.2 )] \u2022 Diabetic Retinopathy Complications [see Warnings and Precautions ( 5.3 )] \u2022 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions ( 5.4 )] \u2022 Acute Kidney Injury [see Warnings and Precautions ( 5.5"
+    },
+    {
+      "brand_name": "Ozempic",
+      "generic_name": "SEMAGLUTIDE",
+      "manufacturer": "A-S Medication Solutions",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "SUBCUTANEOUS"
+      ],
+      "substance_name": [
+        "SEMAGLUTIDE"
+      ],
+      "indications": "1 INDICATIONS AND USAGE OZEMPIC is indicated: \u2022 as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. \u2022 to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction or non-fatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease. Limitations of Use \u2022 OZEMPIC has not been studied in patients with a history of pancreatitis. Consider other antidiabetic therapies in patients with a history of pancreatitis [see Warnings and Precautions ( 5.2 )] . \u2022 OZEMPIC is not indicated for use in patients with type 1 diabetes mellitus. OZEMPIC is a glucagon-like peptide 1 (GLP-1) receptor agonist indicated as: \u2022 an adjunct to diet and exercise to improve glycemic control ",
+      "dosage": "2 DOSAGE AND ADMINISTRATION \u2022 Administer once weekly at any time of day, with or without meals ( 2.1 ). \u2022 Start at 0.25 mg once weekly. After 4 weeks, increase the dosage to 0.5 mg once weekly ( 2.2 ). \u2022 If additional glycemic control is needed, increase the dosage to 1 mg once weekly after at least 4 weeks on the 0.5 mg dose ( 2.2 ). \u2022 If additional glycemic control is needed, increase the dosage to 2 mg once weekly after at least 4 weeks on the 1 mg dosage ( 2.2 ). \u2022 If a dose is missed admini",
+      "warnings": "N/A",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are described below or elsewhere in the prescribing information: \u2022 Risk of Thyroid C-cell Tumors [see Warnings and Precautions ( 5.1 )] \u2022 Pancreatitis [see Warnings and Precautions ( 5.2 )] \u2022 Diabetic Retinopathy Complications [see Warnings and Precautions ( 5.3 )] \u2022 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions ( 5.5 )] \u2022 Acute Kidney Injury [see Warnings and Precautions ( 5.6 )] \u2022 "
+    },
+    {
+      "brand_name": "OZEMPIC",
+      "generic_name": "SEMAGLUTIDE",
+      "manufacturer": "A-S Medication Solutions",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "SUBCUTANEOUS"
+      ],
+      "substance_name": [
+        "SEMAGLUTIDE"
+      ],
+      "indications": "1 INDICATIONS AND USAGE OZEMPIC is indicated: \u2022 as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. \u2022 to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction or non-fatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease. Limitations of Use \u2022 OZEMPIC has not been studied in patients with a history of pancreatitis. Consider other antidiabetic therapies in patients with a history of pancreatitis [see Warnings and Precautions ( 5.2 )] . \u2022 OZEMPIC is not indicated for use in patients with type 1 diabetes mellitus. OZEMPIC is a glucagon-like peptide 1 (GLP-1) receptor agonist indicated as: \u2022 an adjunct to diet and exercise to improve glycemic control ",
+      "dosage": "2 DOSAGE AND ADMINISTRATION \u2022 Administer once weekly at any time of day, with or without meals ( 2.1 ). \u2022 Start at 0.25 mg once weekly. After 4 weeks, increase the dosage to 0.5 mg once weekly ( 2.2 ). \u2022 If additional glycemic control is needed, increase the dosage to 1 mg once weekly after at least 4 weeks on the 0.5 mg dose ( 2.2 ). \u2022 If additional glycemic control is needed, increase the dosage to 2 mg once weekly after at least 4 weeks on the 1 mg dosage ( 2.2 ). \u2022 If a dose is missed admini",
+      "warnings": "N/A",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are described below or elsewhere in the prescribing information: \u2022 Risk of Thyroid C-cell Tumors [see Warnings and Precautions ( 5.1 )] \u2022 Pancreatitis [see Warnings and Precautions ( 5.2 )] \u2022 Diabetic Retinopathy Complications [see Warnings and Precautions ( 5.3 )] \u2022 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions ( 5.5 )] \u2022 Acute Kidney Injury [see Warnings and Precautions ( 5.6 )] \u2022 "
+    }
+  ]
+}

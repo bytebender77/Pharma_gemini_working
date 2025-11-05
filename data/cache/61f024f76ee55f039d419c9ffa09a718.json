@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-02T03:07:26.219464",
+  "source": "pubchem",
+  "query": "aspirin",
+  "data": {
+    "cid": 2244,
+    "molecular_formula": "C9H8O4",
+    "molecular_weight": "180.16",
+    "iupac_name": "2-acetyloxybenzoic acid",
+    "canonical_smiles": "N/A",
+    "inchi": "InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",
+    "inchi_key": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+    "synonyms": [
+      "aspirin",
+      "ACETYLSALICYLIC ACID",
+      "50-78-2",
+      "2-Acetoxybenzoic acid",
+      "2-(Acetyloxy)benzoic acid",
+      "O-Acetylsalicylic acid",
+      "o-Acetoxybenzoic acid",
+      "Acylpyrin",
+      "Ecotrin",
+      "Salicylic acid acetate",
+      "Acenterine",
+      "Acetophen",
+      "Polopiryna",
+      "Acetosalin",
+      "Aspirdrops"
+    ],
+    "description": "N/A",
+    "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/2244"
+  }
+}

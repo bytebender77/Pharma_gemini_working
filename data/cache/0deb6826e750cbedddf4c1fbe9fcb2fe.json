@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-11-05T20:29:23.568064",
+  "source": "clinical_trials",
+  "query": "drug_aspirin_10",
+  "data": [
+    {
+      "nct_id": "NCT01504867",
+      "title": "LIPS-A: Lung Injury Prevention Study With Aspirin",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Acute Respiratory Distress Syndrome"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01504867"
+    },
+    {
+      "nct_id": "NCT03651804",
+      "title": "Radiofrequency Ablation: Treatment for Posterior Element Pain From Vertebral Compression Fractures",
+      "status": "WITHDRAWN",
+      "phase": "N/A",
+      "conditions": [
+        "Vertebral Compression Fracture",
+        "Facet Joint Pain"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03651804"
+    },
+    {
+      "nct_id": "NCT02635230",
+      "title": "What is the Optimal antiplatElet and Anticoagulant Therapy in Patients With Oral Anticoagulation Undergoing revasculariSaTion 2.",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Atrial Fibrillations",
+        "Heart Valve Prostheses",
+        "Acute Coronary Syndromes",
+        "Coronary Artery Diseases",
+        "Stroke",
+        "Bleeding",
+        "Myocardial Infarction"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02635230"
+    },
+    {
+      "nct_id": "NCT05865548",
+      "title": "Addition of Aspirin to Standard of Care in Oral Cancer",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Oral Cancer"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05865548"
+    },
+    {
+      "nct_id": "NCT04504864",
+      "title": "Low-dose Aspirin Therapy in Patients With Ischemic Stroke and Microbleeds",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Ischemic Stroke"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04504864"
+    },
+    {
+      "nct_id": "NCT03465644",
+      "title": "TAILored Versus COnventional AntithRombotic StratEgy IntenDed for Complex HIgh-Risk PCI",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Coronary Stenoses"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03465644"
+    },
+    {
+      "nct_id": "NCT05221164",
+      "title": "162 mg of Aspirin for Prevention of Preeclampsia",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Preeclampsia"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05221164"
+    },
+    {
+      "nct_id": "NCT06521463",
+      "title": "SIMPLAAFY Clinical Trial",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Atrial Fibrillation",
+        "Stroke",
+        "Bleeding"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06521463"
+    },
+    {
+      "nct_id": "NCT06591299",
+      "title": "Combining Aspirin With Cilostazol or Clopidogrel in Minor Stroke or TIA",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Ischemic Stroke"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06591299"
+    },
+    {
+      "nct_id": "NCT02271399",
+      "title": "Comparative Study of Prophylactic Agent for Venous Thromboembolism After Total Knee Arthroplasty",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Venous Thromboembolism"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02271399"
+    }
+  ]
+}

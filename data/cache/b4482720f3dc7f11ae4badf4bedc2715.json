@@ -1,0 +1,109 @@
+{
+  "timestamp": "2025-11-02T03:13:02.869735",
+  "source": "clinical_trials",
+  "query": "drug_exenatide_10",
+  "data": [
+    {
+      "nct_id": "NCT02303730",
+      "title": "Exenatide Compared With Insulin Glargine to Change Liver Fat Content in Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes Mellitus, Type 2",
+        "Non-alcoholic Fatty Liver Disease"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02303730"
+    },
+    {
+      "nct_id": "NCT01969149",
+      "title": "Exenatide for Stress Hyperglycemia",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Stress Hyperglycemia"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01969149"
+    },
+    {
+      "nct_id": "NCT00103935",
+      "title": "Study Examining Exenatide Long-Acting Release in Subjects With Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00103935"
+    },
+    {
+      "nct_id": "NCT01021527",
+      "title": "A Study to Assess the Effects of Exenatide on Insulin Secretion Rates Using a Graded Infusion of Intravenous Glucose (0000-099)(COMPLETED)",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Healthy"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01021527"
+    },
+    {
+      "nct_id": "NCT00241423",
+      "title": "Effect of Exenatide on 24-Hour Blood Glucose Profile Compared With Placebo in Patients With Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00241423"
+    },
+    {
+      "nct_id": "NCT00642538",
+      "title": "A Study Designed to Determine the Safety and Pharmacological Response ofMKC253 Inhalation Powder in Adults With Type 2 Diabetes Mellitus",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00642538"
+    },
+    {
+      "nct_id": "NCT01255163",
+      "title": "A Pilot Clinical Trial of Exendin-4 in Alzheimer's Disease",
+      "status": "TERMINATED",
+      "phase": "N/A",
+      "conditions": [
+        "Alzheimer's Disease",
+        "Mild Cognitive Impairment"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01255163"
+    },
+    {
+      "nct_id": "NCT00637273",
+      "title": "A Study to Compare the Glycemic Effects, Safety, and Tolerability of Exenatide Once Weekly to Those of Sitagliptin and Pioglitazone,in Subjects With Type 2 Diabetes Treated With Metformin (DURATION - 2)",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT00637273"
+    },
+    {
+      "nct_id": "NCT01181986",
+      "title": "The Study of Exenatide Action on Vessel Function in Type 2 Diabetes and Prediabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01181986"
+    },
+    {
+      "nct_id": "NCT01776788",
+      "title": "Effect of Short-Term Intensive Insulin Sequential Exenatide Therapy in Newly Diagnosed Type 2 Diabetic Patients",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01776788"
+    }
+  ]
+}

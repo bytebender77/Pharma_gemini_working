@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-02T03:25:07.997559",
+  "source": "pubchem",
+  "query": "LY3502970",
+  "data": {
+    "cid": 137319706,
+    "molecular_formula": "C48H48F2N10O5",
+    "molecular_weight": "883.0",
+    "iupac_name": "3-[(1S,2S)-1-[5-[(4S)-2,2-dimethyloxan-4-yl]-2-[(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methylindazol-5-yl)-2-oxoimidazol-1-yl]-4-methyl-6,7-dihydro-4H-pyrazolo[4,3-c]pyridine-5-carbonyl]indol-1-yl]-2-methylcyclopropyl]-4H-1,2,4-oxadiazol-5-one",
+    "canonical_smiles": "N/A",
+    "inchi": "InChI=1S/C48H48F2N10O5/c1-25-18-32(19-26(2)40(25)49)60-42(58-16-15-57(46(58)63)37-11-10-36-33(41(37)50)24-51-55(36)7)39-28(4)56(14-12-34(39)53-60)43(61)38-21-31-20-29(30-13-17-64-47(5,6)23-30)8-9-35(31)59(38)48(22-27(48)3)44-52-45(62)65-54-44/h8-11,15-16,18-21,24,27-28,30H,12-14,17,22-23H2,1-7H3,(H,52,54,62)/t27-,28-,30-,48-/m0/s1",
+    "inchi_key": "USUWIEBBBWHKNI-KHIFEHGGSA-N",
+    "synonyms": [
+      "Orforglipron",
+      "2212020-52-3",
+      "LY3502970",
+      "LY-3502970",
+      "7ZW40D021M",
+      "RefChem:168463",
+      "GLP-1 receptor agonist 1",
+      "CHEMBL4446782",
+      "MFCD31807602",
+      "3-[(1S,2S)-1-[5-[(4S)-2,2-dimethyloxan-4-yl]-2-[(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methylindazol-5-yl)-2-oxoimidazol-1-yl]-4-methyl-6,7-dihydro-4H-pyrazolo[4,3-c]pyridine-5-carbonyl]indol-1-yl]-2-methylcyclopropyl]-4H-1,2,4-oxadiazol-5-one",
+      "Orforglipron (USAN)",
+      "ORFORGLIPRON [USAN]",
+      "3-[(1S,2S)-1-(5-[(4S)-2,2-dimethyloxan-4-yl]-2-{(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methyl-1H-indazol-5-yl)-2-oxo-2,3-dihydro-1H-imidazol-1-yl]-4-methyl-2,4,6,7-tetrahydro-5H-pyrazolo[4,3-c]pyridine-5-carbonyl}-1H-indol-1-yl)-2-methylcyclopropyl]-1,2,4-oxadiazol-5(4H)-one",
+      "OWL833",
+      "3-((1S,2S)-1-(5-((S)-2,2-dimethyltetrahydro-2H-pyran-4-yl)-2-((S)-3-(3-(4-fluoro-1-methyl-1H-indazol-5-yl)-2-oxo-2,3-dihydro-1H-imidazol-1-yl)-2-(4-fluoro-3,5-dimethylphenyl)-4-methyl-4,5,6,7-tetrahydro-2H-pyrazolo[4,3-c]pyridine-5-carbonyl)-1H-indol-1-yl)-2-methylcyclopropyl)-1,2,4-oxadiazol-5(4H)-one"
+    ],
+    "description": "N/A",
+    "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/137319706"
+  }
+}

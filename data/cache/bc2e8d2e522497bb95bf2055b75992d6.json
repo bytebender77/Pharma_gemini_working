@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-11-02T03:11:31.469020",
+  "source": "clinical_trials",
+  "query": "drug_liraglutide_10",
+  "data": [
+    {
+      "nct_id": "NCT02660047",
+      "title": "Effect of Liraglutide on Cardiovascular Endpoints in Diabetes Mellitus Type 2 Patients of South Asian Descent",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Diabetes Mellitus Type 2",
+        "Metabolic Syndrome",
+        "Cardiovascular Disease",
+        "Diastolic Dysfunction",
+        "Fatty Liver"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02660047"
+    },
+    {
+      "nct_id": "NCT01740921",
+      "title": "GLP-1 and Microvascular Function in Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01740921"
+    },
+    {
+      "nct_id": "NCT03707171",
+      "title": "Effects of Liraglutide on the Cognitive Function in Patients With Type 2 Diabetes Mellitus",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03707171"
+    },
+    {
+      "nct_id": "NCT04122716",
+      "title": "Combined Effects of GLP-1 Analogue and Exercise on Maintenance of Weight Loss and Health After Very-low Calorie Diet",
+      "status": "UNKNOWN",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04122716"
+    },
+    {
+      "nct_id": "NCT01599338",
+      "title": "Impact of Liraglutide on Sensory Perception, Sensory Specific Satiety, Liking and Wanting in Type 2 Diabetic Patients",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes Mellitus",
+        "Overweight"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01599338"
+    },
+    {
+      "nct_id": "NCT01794143",
+      "title": "A Comparative Effectiveness Study of Major Glycemia-lowering Medications for Treatment of Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes",
+        "Comparative Effectiveness of Glycemia-lowering Medications"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01794143"
+    },
+    {
+      "nct_id": "NCT03885297",
+      "title": "3mg Liraglutide for Overweight or Obesity",
+      "status": "COMPLETED",
+      "phase": "N/A",
+      "conditions": [
+        "Overweight",
+        "Obesity",
+        "Infertility, Female"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03885297"
+    },
+    {
+      "nct_id": "NCT06720246",
+      "title": "Impact of Bariatric Surgery and Liraglutide on Cognitive-Behavioral Markers of Long-Term Weight Loss in Obesity",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Obesity and Overweight"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06720246"
+    },
+    {
+      "nct_id": "NCT06726577",
+      "title": "TP04HN106 in the Treatment of Patients With Amyotrophic Lateral Sclerosis",
+      "status": "RECRUITING",
+      "phase": "N/A",
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06726577"
+    },
+    {
+      "nct_id": "NCT01593137",
+      "title": "A Long-term Trial to Compare the Effects of Liraglutide and Sulphonylurea (Glimepiride) Both in Combination With Metformin on Clinical, Endothelial and Image Markers of Cardiovascular Risk in Patients With Type 2 Diabetes",
+      "status": "WITHDRAWN",
+      "phase": "N/A",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01593137"
+    }
+  ]
+}
